@@ -1,0 +1,5344 @@
+{
+    "data": [
+        {
+            "ParentID": null,
+            "RegionName": "All",
+            "RegionID": 0
+        },
+        {
+            "RegionName": "Europe",
+            "RegionID": 111,
+            "ParentID": 0
+        },
+        {
+            "RegionID": 138,
+            "RegionName": "Australia and Oceania",
+            "ParentID": 0
+        },
+        {
+            "ParentID": 0,
+            "RegionName": "CIS (except Russia)",
+            "RegionID": 166
+        },
+        {
+            "ParentID": 0,
+            "RegionName": "Asia",
+            "RegionID": 183
+        },
+        {
+            "ParentID": 0,
+            "RegionName": "Russia",
+            "RegionID": 225
+        },
+        {
+            "ParentID": 0,
+            "RegionName": "Africa",
+            "RegionID": 241
+        },
+        {
+            "ParentID": 0,
+            "RegionID": 977,
+            "RegionName": "Republic of Crimea"
+        },
+        {
+            "ParentID": 0,
+            "RegionID": 10002,
+            "RegionName": "North America"
+        },
+        {
+            "ParentID": 0,
+            "RegionName": "South America",
+            "RegionID": 10003
+        },
+        {
+            "RegionName": "Moscow",
+            "RegionID": 213,
+            "ParentID": 1
+        },
+        {
+            "ParentID": 1,
+            "RegionID": 214,
+            "RegionName": "Dolgoprudniy"
+        },
+        {
+            "ParentID": 1,
+            "RegionID": 215,
+            "RegionName": "Dubna"
+        },
+        {
+            "ParentID": 1,
+            "RegionName": "Pushino",
+            "RegionID": 217
+        },
+        {
+            "ParentID": 1,
+            "RegionID": 219,
+            "RegionName": "Chernogolovka"
+        },
+        {
+            "RegionName": "Balashiha",
+            "RegionID": 10716,
+            "ParentID": 1
+        },
+        {
+            "ParentID": 1,
+            "RegionID": 10717,
+            "RegionName": "Bronnizi"
+        },
+        {
+            "RegionName": "Domodedovo",
+            "RegionID": 10725,
+            "ParentID": 1
+        },
+        {
+            "ParentID": 1,
+            "RegionID": 10729,
+            "RegionName": "Zvenigorod"
+        },
+        {
+            "RegionName": "Kolomna",
+            "RegionID": 10734,
+            "ParentID": 1
+        },
+        {
+            "RegionID": 10745,
+            "RegionName": "Orehovo-Zuevo",
+            "ParentID": 1
+        },
+        {
+            "RegionID": 10747,
+            "RegionName": "Podolsk",
+            "ParentID": 1
+        },
+        {
+            "RegionName": "Serpuhov",
+            "RegionID": 10754,
+            "ParentID": 1
+        },
+        {
+            "RegionID": 10758,
+            "RegionName": "Himki",
+            "ParentID": 1
+        },
+        {
+            "RegionName": "Elektrostal",
+            "RegionID": 20523,
+            "ParentID": 1
+        },
+        {
+            "ParentID": 1,
+            "RegionName": "Zhukovskiy",
+            "RegionID": 20571
+        },
+        {
+            "RegionName": "Protvino",
+            "RegionID": 20576,
+            "ParentID": 1
+        },
+        {
+            "RegionName": "Korolev",
+            "RegionID": 20728,
+            "ParentID": 1
+        },
+        {
+            "RegionName": "Fryazino",
+            "RegionID": 21619,
+            "ParentID": 1
+        },
+        {
+            "ParentID": 1,
+            "RegionName": "Reutov",
+            "RegionID": 21621
+        },
+        {
+            "RegionName": "Ivanteevka",
+            "RegionID": 21623,
+            "ParentID": 1
+        },
+        {
+            "RegionName": "Lytkarino",
+            "RegionID": 21630,
+            "ParentID": 1
+        },
+        {
+            "ParentID": 1,
+            "RegionID": 21635,
+            "RegionName": "Losino-Petrovsky"
+        },
+        {
+            "ParentID": 1,
+            "RegionID": 21641,
+            "RegionName": "Lobnja"
+        },
+        {
+            "RegionName": "Krasnoznamensk",
+            "RegionID": 21647,
+            "ParentID": 1
+        },
+        {
+            "ParentID": 1,
+            "RegionName": "Dzerzhinsky",
+            "RegionID": 21735
+        },
+        {
+            "RegionID": 98580,
+            "RegionName": "Volokolamsky District",
+            "ParentID": 1
+        },
+        {
+            "RegionID": 98581,
+            "RegionName": "Voskresensky District",
+            "ParentID": 1
+        },
+        {
+            "ParentID": 1,
+            "RegionID": 98582,
+            "RegionName": "Dmitrovsky District"
+        },
+        {
+            "ParentID": 1,
+            "RegionName": "Yegoryevsk Urban Okrug",
+            "RegionID": 98584
+        },
+        {
+            "RegionID": 98585,
+            "RegionName": "Zaraysk Urban Okrug",
+            "ParentID": 1
+        },
+        {
+            "ParentID": 1,
+            "RegionID": 98586,
+            "RegionName": "Istra Urban Okrug"
+        },
+        {
+            "ParentID": 1,
+            "RegionID": 98587,
+            "RegionName": "Kashira Urban Okrug"
+        },
+        {
+            "RegionName": "Klin Urban Okrug",
+            "RegionID": 98588,
+            "ParentID": 1
+        },
+        {
+            "RegionName": "Krasnogorsk Urban Okrug",
+            "RegionID": 98590,
+            "ParentID": 1
+        },
+        {
+            "ParentID": 1,
+            "RegionID": 98591,
+            "RegionName": "Leninsky District"
+        },
+        {
+            "RegionID": 98593,
+            "RegionName": "Lukhovitsy Urban Okrug",
+            "ParentID": 1
+        },
+        {
+            "ParentID": 1,
+            "RegionID": 98594,
+            "RegionName": "Lyubertsy Urban Okrug"
+        },
+        {
+            "RegionName": "Mozhajskij Urban Okrug",
+            "RegionID": 98595,
+            "ParentID": 1
+        },
+        {
+            "RegionID": 98596,
+            "RegionName": "Mytishchi Urban Okrug",
+            "ParentID": 1
+        },
+        {
+            "RegionName": "Naro-Fominsky Urban Okrug",
+            "RegionID": 98597,
+            "ParentID": 1
+        },
+        {
+            "RegionName": "Bogorodskij Urban Okrug",
+            "RegionID": 98598,
+            "ParentID": 1
+        },
+        {
+            "ParentID": 1,
+            "RegionName": "Odintsovsky District",
+            "RegionID": 98599
+        },
+        {
+            "RegionID": 98602,
+            "RegionName": "Pavlovsky Posad Urban Okrug",
+            "ParentID": 1
+        },
+        {
+            "RegionID": 98604,
+            "RegionName": "Pushkinsky District",
+            "ParentID": 1
+        },
+        {
+            "RegionName": "Ramensky District",
+            "RegionID": 98605,
+            "ParentID": 1
+        },
+        {
+            "ParentID": 1,
+            "RegionID": 98606,
+            "RegionName": "Ruzsky Urban Okrug"
+        },
+        {
+            "ParentID": 1,
+            "RegionName": "Stupino Urban Okrug",
+            "RegionID": 98607
+        },
+        {
+            "RegionName": "Sergiyevo-Posadsky District",
+            "RegionID": 98608,
+            "ParentID": 1
+        },
+        {
+            "ParentID": 1,
+            "RegionID": 98611,
+            "RegionName": "Solnechnogorsky District"
+        },
+        {
+            "ParentID": 1,
+            "RegionID": 98614,
+            "RegionName": "Chekhov Urban Okrug"
+        },
+        {
+            "ParentID": 1,
+            "RegionName": "Shatura Urban Okrug",
+            "RegionID": 98615
+        },
+        {
+            "ParentID": 1,
+            "RegionName": "Shchelkovsky District",
+            "RegionID": 98617
+        },
+        {
+            "RegionName": "Krasnoarmeysk",
+            "RegionID": 100471,
+            "ParentID": 1
+        },
+        {
+            "RegionName": "Kolpinsky District",
+            "RegionID": 20293,
+            "ParentID": 2
+        },
+        {
+            "ParentID": 2,
+            "RegionName": "Pushkinsky District",
+            "RegionID": 20297
+        },
+        {
+            "RegionID": 1,
+            "RegionName": "Moscow and Moscow Oblast",
+            "ParentID": 3
+        },
+        {
+            "RegionName": "Belgorod Oblast",
+            "RegionID": 10645,
+            "ParentID": 3
+        },
+        {
+            "RegionName": "Bryansk Oblast",
+            "RegionID": 10650,
+            "ParentID": 3
+        },
+        {
+            "ParentID": 3,
+            "RegionName": "Vladimir Oblast",
+            "RegionID": 10658
+        },
+        {
+            "ParentID": 3,
+            "RegionID": 10672,
+            "RegionName": "Voronezh Oblast"
+        },
+        {
+            "ParentID": 3,
+            "RegionName": "Ivanovo Oblast",
+            "RegionID": 10687
+        },
+        {
+            "ParentID": 3,
+            "RegionID": 10693,
+            "RegionName": "Kaluga Oblast"
+        },
+        {
+            "ParentID": 3,
+            "RegionID": 10699,
+            "RegionName": "Kostroma Oblast"
+        },
+        {
+            "ParentID": 3,
+            "RegionID": 10705,
+            "RegionName": "Kursk Oblast"
+        },
+        {
+            "RegionName": "Lipetsk Oblast",
+            "RegionID": 10712,
+            "ParentID": 3
+        },
+        {
+            "ParentID": 3,
+            "RegionID": 10772,
+            "RegionName": "Oryol Oblast"
+        },
+        {
+            "ParentID": 3,
+            "RegionName": "Ryazan Oblast",
+            "RegionID": 10776
+        },
+        {
+            "RegionName": "Smolensk Oblast",
+            "RegionID": 10795,
+            "ParentID": 3
+        },
+        {
+            "RegionID": 10802,
+            "RegionName": "Tambov Oblast",
+            "ParentID": 3
+        },
+        {
+            "RegionID": 10819,
+            "RegionName": "Tver Oblast",
+            "ParentID": 3
+        },
+        {
+            "ParentID": 3,
+            "RegionID": 10832,
+            "RegionName": "Tula Oblast"
+        },
+        {
+            "RegionID": 10841,
+            "RegionName": "Yaroslavl Oblast",
+            "ParentID": 3
+        },
+        {
+            "RegionName": "Saint-Petersburg and Leningrad Oblast",
+            "RegionID": 10174,
+            "ParentID": 17
+        },
+        {
+            "RegionID": 10176,
+            "RegionName": "Nenets Autonomous Okrug",
+            "ParentID": 17
+        },
+        {
+            "ParentID": 17,
+            "RegionName": "Arkhange'lskaya Oblast'",
+            "RegionID": 10842
+        },
+        {
+            "RegionName": "Vologda Oblast",
+            "RegionID": 10853,
+            "ParentID": 17
+        },
+        {
+            "RegionName": "Kaliningrad Oblast",
+            "RegionID": 10857,
+            "ParentID": 17
+        },
+        {
+            "RegionID": 10897,
+            "RegionName": "Murmansk Oblast",
+            "ParentID": 17
+        },
+        {
+            "ParentID": 17,
+            "RegionID": 10904,
+            "RegionName": "Novgorod Oblast"
+        },
+        {
+            "RegionID": 10926,
+            "RegionName": "Pskov Oblast",
+            "ParentID": 17
+        },
+        {
+            "RegionID": 10933,
+            "RegionName": "Republic of Karelia",
+            "ParentID": 17
+        },
+        {
+            "ParentID": 17,
+            "RegionName": "Komi Republic",
+            "RegionID": 10939
+        },
+        {
+            "ParentID": 26,
+            "RegionName": "Astrakhan Oblast",
+            "RegionID": 10946
+        },
+        {
+            "ParentID": 26,
+            "RegionID": 10950,
+            "RegionName": "Volgograd Oblast"
+        },
+        {
+            "ParentID": 26,
+            "RegionID": 10995,
+            "RegionName": "Krasnodar Krai"
+        },
+        {
+            "RegionName": "Republic of Adygea",
+            "RegionID": 11004,
+            "ParentID": 26
+        },
+        {
+            "RegionID": 11015,
+            "RegionName": "Republic of Kalmykia",
+            "ParentID": 26
+        },
+        {
+            "RegionID": 11029,
+            "RegionName": "Rostov Oblast",
+            "ParentID": 26
+        },
+        {
+            "ParentID": 40,
+            "RegionName": "Kirov Oblast",
+            "RegionID": 11070
+        },
+        {
+            "ParentID": 40,
+            "RegionName": "Mari El Republic",
+            "RegionID": 11077
+        },
+        {
+            "ParentID": 40,
+            "RegionName": "Nizhny Novgorod Oblast'",
+            "RegionID": 11079
+        },
+        {
+            "RegionName": "Orenburg Oblast",
+            "RegionID": 11084,
+            "ParentID": 40
+        },
+        {
+            "ParentID": 40,
+            "RegionName": "Penza Oblast",
+            "RegionID": 11095
+        },
+        {
+            "RegionID": 11108,
+            "RegionName": "Perm Krai",
+            "ParentID": 40
+        },
+        {
+            "ParentID": 40,
+            "RegionName": "Republic of Bashkortostan",
+            "RegionID": 11111
+        },
+        {
+            "ParentID": 40,
+            "RegionName": "Republic of Mordovia",
+            "RegionID": 11117
+        },
+        {
+            "RegionID": 11119,
+            "RegionName": "Republic of Tatarstan",
+            "ParentID": 40
+        },
+        {
+            "RegionID": 11131,
+            "RegionName": "Samara Oblast",
+            "ParentID": 40
+        },
+        {
+            "ParentID": 40,
+            "RegionName": "Saratov Oblast",
+            "RegionID": 11146
+        },
+        {
+            "ParentID": 40,
+            "RegionName": "Udmurt Republic",
+            "RegionID": 11148
+        },
+        {
+            "ParentID": 40,
+            "RegionID": 11153,
+            "RegionName": "Ulyanovsk Oblast"
+        },
+        {
+            "ParentID": 40,
+            "RegionName": "Chuvash Republic",
+            "RegionID": 11156
+        },
+        {
+            "RegionID": 11158,
+            "RegionName": "Kurgan Oblast",
+            "ParentID": 52
+        },
+        {
+            "RegionID": 11162,
+            "RegionName": "Sverdlovsk Oblast",
+            "ParentID": 52
+        },
+        {
+            "ParentID": 52,
+            "RegionName": "Tyumen Oblast",
+            "RegionID": 11176
+        },
+        {
+            "ParentID": 52,
+            "RegionName": "Khanty-Mansi Autonomous Okrug — Yugra",
+            "RegionID": 11193
+        },
+        {
+            "ParentID": 52,
+            "RegionID": 11225,
+            "RegionName": "Chelyabinsk Oblast"
+        },
+        {
+            "ParentID": 52,
+            "RegionID": 11232,
+            "RegionName": "Yamalo-Nenets Autonomous Okrug"
+        },
+        {
+            "ParentID": 59,
+            "RegionID": 10231,
+            "RegionName": "Altai Republic"
+        },
+        {
+            "ParentID": 59,
+            "RegionName": "Tyva Republic",
+            "RegionID": 10233
+        },
+        {
+            "ParentID": 59,
+            "RegionID": 11235,
+            "RegionName": "Altai Krai"
+        },
+        {
+            "ParentID": 59,
+            "RegionID": 11266,
+            "RegionName": "Irkutsk Oblast"
+        },
+        {
+            "RegionName": "Kemerovo Oblast",
+            "RegionID": 11282,
+            "ParentID": 59
+        },
+        {
+            "RegionID": 11309,
+            "RegionName": "Krasnoyarsk Krai",
+            "ParentID": 59
+        },
+        {
+            "RegionName": "Novosibirsk Oblast",
+            "RegionID": 11316,
+            "ParentID": 59
+        },
+        {
+            "ParentID": 59,
+            "RegionID": 11318,
+            "RegionName": "Omsk Oblast"
+        },
+        {
+            "RegionID": 11340,
+            "RegionName": "Republic of Khakassia",
+            "ParentID": 59
+        },
+        {
+            "ParentID": 59,
+            "RegionName": "Tomsk District",
+            "RegionID": 11353
+        },
+        {
+            "RegionName": "Jewish Autonomous Oblast",
+            "RegionID": 10243,
+            "ParentID": 73
+        },
+        {
+            "RegionName": "Chukotka Autonomous Okrug",
+            "RegionID": 10251,
+            "ParentID": 73
+        },
+        {
+            "RegionName": "Republic of Buryatia",
+            "RegionID": 11330,
+            "ParentID": 73
+        },
+        {
+            "ParentID": 73,
+            "RegionName": "Amur Oblast",
+            "RegionID": 11375
+        },
+        {
+            "ParentID": 73,
+            "RegionName": "Kamchatka Krai",
+            "RegionID": 11398
+        },
+        {
+            "ParentID": 73,
+            "RegionName": "Magadan District",
+            "RegionID": 11403
+        },
+        {
+            "RegionName": "Primorsky Krai",
+            "RegionID": 11409,
+            "ParentID": 73
+        },
+        {
+            "ParentID": 73,
+            "RegionID": 11443,
+            "RegionName": "Sakha (Yakutia) Republic"
+        },
+        {
+            "RegionID": 11450,
+            "RegionName": "Sakhalin District",
+            "ParentID": 73
+        },
+        {
+            "ParentID": 73,
+            "RegionID": 11457,
+            "RegionName": "Khabarovsk Krai"
+        },
+        {
+            "RegionID": 21949,
+            "RegionName": "Zabaykalsky Krai",
+            "ParentID": 73
+        },
+        {
+            "RegionID": 103750,
+            "RegionName": "Free State of Bavaria",
+            "ParentID": 96
+        },
+        {
+            "ParentID": 102,
+            "RegionName": "England",
+            "RegionID": 104520
+        },
+        {
+            "RegionName": "Germany",
+            "RegionID": 96,
+            "ParentID": 111
+        },
+        {
+            "RegionName": "United Kingdom",
+            "RegionID": 102,
+            "ParentID": 111
+        },
+        {
+            "ParentID": 111,
+            "RegionName": "Austria",
+            "RegionID": 113
+        },
+        {
+            "RegionID": 114,
+            "RegionName": "Belgium",
+            "ParentID": 111
+        },
+        {
+            "RegionName": "Bulgaria",
+            "RegionID": 115,
+            "ParentID": 111
+        },
+        {
+            "ParentID": 111,
+            "RegionName": "Hungary",
+            "RegionID": 116
+        },
+        {
+            "RegionID": 117,
+            "RegionName": "Lithuania",
+            "ParentID": 111
+        },
+        {
+            "RegionName": "Netherlands",
+            "RegionID": 118,
+            "ParentID": 111
+        },
+        {
+            "ParentID": 111,
+            "RegionID": 119,
+            "RegionName": "Norway"
+        },
+        {
+            "RegionID": 120,
+            "RegionName": "Poland",
+            "ParentID": 111
+        },
+        {
+            "RegionID": 121,
+            "RegionName": "Slovakia",
+            "ParentID": 111
+        },
+        {
+            "RegionID": 122,
+            "RegionName": "Slovenia",
+            "ParentID": 111
+        },
+        {
+            "ParentID": 111,
+            "RegionName": "Finland",
+            "RegionID": 123
+        },
+        {
+            "ParentID": 111,
+            "RegionID": 124,
+            "RegionName": "France"
+        },
+        {
+            "ParentID": 111,
+            "RegionID": 125,
+            "RegionName": "Czech Republic"
+        },
+        {
+            "RegionID": 126,
+            "RegionName": "Switzerland",
+            "ParentID": 111
+        },
+        {
+            "RegionName": "Sweden",
+            "RegionID": 127,
+            "ParentID": 111
+        },
+        {
+            "ParentID": 111,
+            "RegionID": 179,
+            "RegionName": "Estonia"
+        },
+        {
+            "ParentID": 111,
+            "RegionName": "Serbia",
+            "RegionID": 180
+        },
+        {
+            "RegionName": "Denmark",
+            "RegionID": 203,
+            "ParentID": 111
+        },
+        {
+            "RegionName": "Spain",
+            "RegionID": 204,
+            "ParentID": 111
+        },
+        {
+            "ParentID": 111,
+            "RegionName": "Italy",
+            "RegionID": 205
+        },
+        {
+            "RegionName": "Latvia",
+            "RegionID": 206,
+            "ParentID": 111
+        },
+        {
+            "RegionID": 246,
+            "RegionName": "Greece",
+            "ParentID": 111
+        },
+        {
+            "ParentID": 111,
+            "RegionID": 983,
+            "RegionName": "Turkey"
+        },
+        {
+            "ParentID": 111,
+            "RegionName": "Portugal",
+            "RegionID": 10074
+        },
+        {
+            "ParentID": 111,
+            "RegionID": 10077,
+            "RegionName": "Romania"
+        },
+        {
+            "ParentID": 111,
+            "RegionID": 10083,
+            "RegionName": "Croatia"
+        },
+        {
+            "ParentID": 111,
+            "RegionName": "Cyprus",
+            "RegionID": 20574
+        },
+        {
+            "RegionID": 21610,
+            "RegionName": "Montenegro",
+            "ParentID": 111
+        },
+        {
+            "ParentID": 117,
+            "RegionName": "Vilnius County",
+            "RegionID": 104260
+        },
+        {
+            "RegionID": 104357,
+            "RegionName": "Uusimaa",
+            "ParentID": 123
+        },
+        {
+            "ParentID": 138,
+            "RegionName": "New Zealand",
+            "RegionID": 139
+        },
+        {
+            "ParentID": 138,
+            "RegionID": 211,
+            "RegionName": "Australia"
+        },
+        {
+            "ParentID": 149,
+            "RegionName": "Moguilev District",
+            "RegionID": 29629
+        },
+        {
+            "RegionID": 29630,
+            "RegionName": "Minsk District",
+            "ParentID": 149
+        },
+        {
+            "RegionName": "Gomel district",
+            "RegionID": 29631,
+            "ParentID": 149
+        },
+        {
+            "ParentID": 149,
+            "RegionName": "Brest District",
+            "RegionID": 29632
+        },
+        {
+            "ParentID": 149,
+            "RegionID": 29633,
+            "RegionName": "Vitebsk District"
+        },
+        {
+            "RegionName": "Grodno District",
+            "RegionID": 29634,
+            "ParentID": 149
+        },
+        {
+            "ParentID": 159,
+            "RegionName": "Akmolinsk District",
+            "RegionID": 29403
+        },
+        {
+            "RegionName": "Aktubinsk District",
+            "RegionID": 29404,
+            "ParentID": 159
+        },
+        {
+            "ParentID": 159,
+            "RegionID": 29406,
+            "RegionName": "Alma-Ata District"
+        },
+        {
+            "ParentID": 159,
+            "RegionID": 29407,
+            "RegionName": "Atyrau District"
+        },
+        {
+            "RegionID": 29408,
+            "RegionName": "East-Kazakhstan District",
+            "ParentID": 159
+        },
+        {
+            "ParentID": 159,
+            "RegionID": 29409,
+            "RegionName": "Zhambylsk District"
+        },
+        {
+            "ParentID": 159,
+            "RegionID": 29410,
+            "RegionName": "West-Kazakhstan District"
+        },
+        {
+            "RegionID": 29411,
+            "RegionName": "Karaganda District",
+            "ParentID": 159
+        },
+        {
+            "RegionID": 29412,
+            "RegionName": "Kostanai District",
+            "ParentID": 159
+        },
+        {
+            "RegionID": 29413,
+            "RegionName": "Kyzylorda District",
+            "ParentID": 159
+        },
+        {
+            "RegionID": 29414,
+            "RegionName": "Mangystau District",
+            "ParentID": 159
+        },
+        {
+            "RegionName": "Pavlodar District",
+            "RegionID": 29415,
+            "ParentID": 159
+        },
+        {
+            "RegionID": 29416,
+            "RegionName": "North-Kazakhstan District",
+            "ParentID": 159
+        },
+        {
+            "ParentID": 159,
+            "RegionID": 29417,
+            "RegionName": "Turkestan District"
+        },
+        {
+            "ParentID": 166,
+            "RegionID": 149,
+            "RegionName": "Belarus"
+        },
+        {
+            "RegionID": 159,
+            "RegionName": "Kazakhstan",
+            "ParentID": 166
+        },
+        {
+            "RegionID": 167,
+            "RegionName": "Azerbaijan",
+            "ParentID": 166
+        },
+        {
+            "ParentID": 166,
+            "RegionID": 168,
+            "RegionName": "Armenia"
+        },
+        {
+            "ParentID": 166,
+            "RegionName": "Turkmenistan",
+            "RegionID": 170
+        },
+        {
+            "ParentID": 166,
+            "RegionID": 171,
+            "RegionName": "Uzbekistan"
+        },
+        {
+            "RegionID": 187,
+            "RegionName": "Ukraine",
+            "ParentID": 166
+        },
+        {
+            "ParentID": 166,
+            "RegionName": "Kyrgyzstan",
+            "RegionID": 207
+        },
+        {
+            "RegionID": 208,
+            "RegionName": "Moldova",
+            "ParentID": 166
+        },
+        {
+            "ParentID": 166,
+            "RegionID": 209,
+            "RegionName": "Tajikistan"
+        },
+        {
+            "RegionID": 29386,
+            "RegionName": "Abkhazia",
+            "ParentID": 166
+        },
+        {
+            "RegionName": "South Ossetia",
+            "RegionID": 29387,
+            "ParentID": 166
+        },
+        {
+            "RegionName": "Baku",
+            "RegionID": 10253,
+            "ParentID": 167
+        },
+        {
+            "RegionName": "Yerevan",
+            "RegionID": 10262,
+            "ParentID": 168
+        },
+        {
+            "RegionID": 105789,
+            "RegionName": "Aragatsotn",
+            "ParentID": 168
+        },
+        {
+            "ParentID": 168,
+            "RegionID": 105790,
+            "RegionName": "Ararat"
+        },
+        {
+            "ParentID": 168,
+            "RegionID": 105791,
+            "RegionName": "Armavir (Armenia)"
+        },
+        {
+            "RegionID": 105792,
+            "RegionName": "Gegharkunik",
+            "ParentID": 168
+        },
+        {
+            "ParentID": 168,
+            "RegionName": "Kotayk",
+            "RegionID": 105793
+        },
+        {
+            "ParentID": 168,
+            "RegionID": 105794,
+            "RegionName": "Lori"
+        },
+        {
+            "ParentID": 168,
+            "RegionID": 105795,
+            "RegionName": "Shirak"
+        },
+        {
+            "RegionName": "Syunik",
+            "RegionID": 105796,
+            "ParentID": 168
+        },
+        {
+            "RegionID": 105797,
+            "RegionName": "Tavush",
+            "ParentID": 168
+        },
+        {
+            "ParentID": 168,
+            "RegionID": 105798,
+            "RegionName": "Vayots Dzor"
+        },
+        {
+            "RegionID": 10277,
+            "RegionName": "Tbilisi",
+            "ParentID": 169
+        },
+        {
+            "RegionName": "Autonomous Republic of Adjara",
+            "RegionID": 122054,
+            "ParentID": 169
+        },
+        {
+            "ParentID": 169,
+            "RegionID": 122055,
+            "RegionName": "Guria"
+        },
+        {
+            "ParentID": 169,
+            "RegionID": 122056,
+            "RegionName": "Imereti"
+        },
+        {
+            "ParentID": 169,
+            "RegionName": "Kakheti",
+            "RegionID": 122057
+        },
+        {
+            "ParentID": 169,
+            "RegionID": 122058,
+            "RegionName": "Mtskheta-Mtianeti"
+        },
+        {
+            "ParentID": 169,
+            "RegionID": 122059,
+            "RegionName": "Racha-Lechkhumi and Kvemo Svaneti"
+        },
+        {
+            "RegionName": "Samegrelo-Zemo Svaneti",
+            "RegionID": 122060,
+            "ParentID": 169
+        },
+        {
+            "ParentID": 169,
+            "RegionName": "Samtskhe-Javakheti",
+            "RegionID": 122061
+        },
+        {
+            "RegionID": 122062,
+            "RegionName": "Kvemo Kartli",
+            "ParentID": 169
+        },
+        {
+            "RegionName": "Shida Kartli",
+            "RegionID": 122063,
+            "ParentID": 169
+        },
+        {
+            "RegionName": "Tashkent",
+            "RegionID": 10335,
+            "ParentID": 171
+        },
+        {
+            "ParentID": 171,
+            "RegionName": "Andijan Province",
+            "RegionID": 105804
+        },
+        {
+            "RegionName": "Bukhara Province",
+            "RegionID": 105805,
+            "ParentID": 171
+        },
+        {
+            "ParentID": 171,
+            "RegionName": "Jizzakh Province",
+            "RegionID": 105806
+        },
+        {
+            "ParentID": 171,
+            "RegionName": "Qashqadaryo Province",
+            "RegionID": 105807
+        },
+        {
+            "ParentID": 171,
+            "RegionName": "Navoiy Province",
+            "RegionID": 105808
+        },
+        {
+            "RegionID": 105809,
+            "RegionName": "Namangan Province",
+            "ParentID": 171
+        },
+        {
+            "RegionID": 105810,
+            "RegionName": "Samarqand Province",
+            "ParentID": 171
+        },
+        {
+            "RegionID": 105811,
+            "RegionName": "Surxondaryo Province",
+            "ParentID": 171
+        },
+        {
+            "ParentID": 171,
+            "RegionName": "Sirdaryo Province",
+            "RegionID": 105812
+        },
+        {
+            "ParentID": 171,
+            "RegionName": "Tashkent Province",
+            "RegionID": 105813
+        },
+        {
+            "ParentID": 171,
+            "RegionID": 105814,
+            "RegionName": "Fergana Province"
+        },
+        {
+            "ParentID": 171,
+            "RegionID": 105815,
+            "RegionName": "Xorazm Province"
+        },
+        {
+            "RegionName": "Republic of Karakalpakstan",
+            "RegionID": 105816,
+            "ParentID": 171
+        },
+        {
+            "RegionName": "Tartu County",
+            "RegionID": 104430,
+            "ParentID": 179
+        },
+        {
+            "ParentID": 179,
+            "RegionName": "Harju County",
+            "RegionID": 104431
+        },
+        {
+            "RegionID": 104492,
+            "RegionName": "Belgrade District",
+            "ParentID": 180
+        },
+        {
+            "ParentID": 181,
+            "RegionName": "Central District",
+            "RegionID": 103900
+        },
+        {
+            "ParentID": 181,
+            "RegionID": 103901,
+            "RegionName": "Haifa District"
+        },
+        {
+            "RegionID": 103904,
+            "RegionName": "Southern District",
+            "ParentID": 181
+        },
+        {
+            "ParentID": 181,
+            "RegionID": 103905,
+            "RegionName": "Tel Aviv District"
+        },
+        {
+            "RegionID": 134,
+            "RegionName": "China",
+            "ParentID": 183
+        },
+        {
+            "RegionID": 135,
+            "RegionName": "South Korea",
+            "ParentID": 183
+        },
+        {
+            "ParentID": 183,
+            "RegionName": "Japan",
+            "RegionID": 137
+        },
+        {
+            "RegionName": "Georgia",
+            "RegionID": 169,
+            "ParentID": 183
+        },
+        {
+            "ParentID": 183,
+            "RegionID": 181,
+            "RegionName": "Israel"
+        },
+        {
+            "ParentID": 183,
+            "RegionID": 210,
+            "RegionName": "United Arab Emirates"
+        },
+        {
+            "RegionName": "India",
+            "RegionID": 994,
+            "ParentID": 183
+        },
+        {
+            "RegionName": "Thailand",
+            "RegionID": 995,
+            "ParentID": 183
+        },
+        {
+            "ParentID": 183,
+            "RegionName": "Indonesia",
+            "RegionID": 10095
+        },
+        {
+            "RegionName": "Saudi Arabia",
+            "RegionID": 10540,
+            "ParentID": 183
+        },
+        {
+            "RegionName": "Cambodia",
+            "RegionID": 20975,
+            "ParentID": 183
+        },
+        {
+            "ParentID": 187,
+            "RegionID": 20529,
+            "RegionName": "Lviv District"
+        },
+        {
+            "ParentID": 187,
+            "RegionID": 20530,
+            "RegionName": "Zakarpattia District"
+        },
+        {
+            "ParentID": 187,
+            "RegionID": 20531,
+            "RegionName": "Ternopil District"
+        },
+        {
+            "ParentID": 187,
+            "RegionID": 20532,
+            "RegionName": "Ivano-Frankovsk District"
+        },
+        {
+            "RegionID": 20533,
+            "RegionName": "Chernovtci District",
+            "ParentID": 187
+        },
+        {
+            "RegionName": "Rovno District",
+            "RegionID": 20534,
+            "ParentID": 187
+        },
+        {
+            "RegionName": "Khmelnitsky District",
+            "RegionID": 20535,
+            "ParentID": 187
+        },
+        {
+            "ParentID": 187,
+            "RegionID": 20536,
+            "RegionName": "Donetsk Region"
+        },
+        {
+            "RegionID": 20537,
+            "RegionName": "Dnipropetrovsk Region",
+            "ParentID": 187
+        },
+        {
+            "ParentID": 187,
+            "RegionID": 20538,
+            "RegionName": "Kharkiv Region"
+        },
+        {
+            "RegionName": "Zaporizhia Region",
+            "RegionID": 20539,
+            "ParentID": 187
+        },
+        {
+            "RegionID": 20540,
+            "RegionName": "Luhansk Region",
+            "ParentID": 187
+        },
+        {
+            "ParentID": 187,
+            "RegionID": 20541,
+            "RegionName": "Odesa District"
+        },
+        {
+            "ParentID": 187,
+            "RegionName": "Kherson District",
+            "RegionID": 20542
+        },
+        {
+            "RegionName": "Mykolaiv District",
+            "RegionID": 20543,
+            "ParentID": 187
+        },
+        {
+            "RegionID": 20544,
+            "RegionName": "Kyiv Region",
+            "ParentID": 187
+        },
+        {
+            "ParentID": 187,
+            "RegionName": "Vinnytsia Region",
+            "RegionID": 20545
+        },
+        {
+            "ParentID": 187,
+            "RegionName": "Cherkassi District",
+            "RegionID": 20546
+        },
+        {
+            "ParentID": 187,
+            "RegionID": 20547,
+            "RegionName": "Zhytomyr Region"
+        },
+        {
+            "ParentID": 187,
+            "RegionName": "Kirovohrad Region",
+            "RegionID": 20548
+        },
+        {
+            "ParentID": 187,
+            "RegionName": "Poltava Region",
+            "RegionID": 20549
+        },
+        {
+            "ParentID": 187,
+            "RegionID": 20550,
+            "RegionName": "Volyn Oblast"
+        },
+        {
+            "RegionID": 20551,
+            "RegionName": "Chernihiv Region",
+            "ParentID": 187
+        },
+        {
+            "ParentID": 187,
+            "RegionName": "Sumi District",
+            "RegionID": 20552
+        },
+        {
+            "RegionName": "Riga",
+            "RegionID": 11474,
+            "ParentID": 206
+        },
+        {
+            "RegionName": "Bishkek",
+            "RegionID": 10309,
+            "ParentID": 207
+        },
+        {
+            "ParentID": 207,
+            "RegionID": 10310,
+            "RegionName": "Osh"
+        },
+        {
+            "RegionID": 10313,
+            "RegionName": "Kishinev",
+            "ParentID": 208
+        },
+        {
+            "RegionID": 216,
+            "RegionName": "Zelenograd",
+            "ParentID": 213
+        },
+        {
+            "RegionName": "Troitsk",
+            "RegionID": 20674,
+            "ParentID": 213
+        },
+        {
+            "RegionID": 21624,
+            "RegionName": "Zcherbinka",
+            "ParentID": 213
+        },
+        {
+            "RegionName": "Central Federal District",
+            "RegionID": 3,
+            "ParentID": 225
+        },
+        {
+            "ParentID": 225,
+            "RegionName": "Northwestern Federal District",
+            "RegionID": 17
+        },
+        {
+            "ParentID": 225,
+            "RegionName": "Southern Federal District",
+            "RegionID": 26
+        },
+        {
+            "RegionName": "Volga Federal District",
+            "RegionID": 40,
+            "ParentID": 225
+        },
+        {
+            "RegionID": 52,
+            "RegionName": "Ural Federal District",
+            "ParentID": 225
+        },
+        {
+            "RegionName": "Siberian Federal District",
+            "RegionID": 59,
+            "ParentID": 225
+        },
+        {
+            "RegionID": 73,
+            "RegionName": "Far Eastern Federal District",
+            "ParentID": 225
+        },
+        {
+            "ParentID": 225,
+            "RegionName": "North Caucasian Federal District",
+            "RegionID": 102444
+        },
+        {
+            "ParentID": 241,
+            "RegionID": 1056,
+            "RegionName": "Egypt"
+        },
+        {
+            "ParentID": 241,
+            "RegionName": "Côte d'Ivoire",
+            "RegionID": 20733
+        },
+        {
+            "RegionID": 146,
+            "RegionName": "Simferopol",
+            "ParentID": 977
+        },
+        {
+            "ParentID": 977,
+            "RegionID": 959,
+            "RegionName": "Sevastopol"
+        },
+        {
+            "ParentID": 977,
+            "RegionName": "Evpatoria",
+            "RegionID": 11463
+        },
+        {
+            "ParentID": 977,
+            "RegionName": "Kerch",
+            "RegionID": 11464
+        },
+        {
+            "ParentID": 977,
+            "RegionName": "Feodosia",
+            "RegionID": 11469
+        },
+        {
+            "RegionID": 11470,
+            "RegionName": "Yalta",
+            "ParentID": 977
+        },
+        {
+            "ParentID": 977,
+            "RegionID": 11471,
+            "RegionName": "Alushta"
+        },
+        {
+            "RegionName": "Sudak",
+            "RegionID": 11472,
+            "ParentID": 977
+        },
+        {
+            "RegionID": 20556,
+            "RegionName": "Saky",
+            "ParentID": 977
+        },
+        {
+            "ParentID": 977,
+            "RegionID": 24696,
+            "RegionName": "Bakhchisaray District"
+        },
+        {
+            "RegionID": 24702,
+            "RegionName": "Leninsky District",
+            "ParentID": 977
+        },
+        {
+            "ParentID": 977,
+            "RegionID": 27555,
+            "RegionName": "Jankoy"
+        },
+        {
+            "ParentID": 977,
+            "RegionID": 27693,
+            "RegionName": "Krasnoperekopsk"
+        },
+        {
+            "ParentID": 977,
+            "RegionName": "Armyansk",
+            "RegionID": 28892
+        },
+        {
+            "RegionID": 103668,
+            "RegionName": "Agri",
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Adana",
+            "RegionID": 103669
+        },
+        {
+            "RegionName": "Adiyaman",
+            "RegionID": 103670,
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103671,
+            "RegionName": "Aydin"
+        },
+        {
+            "RegionID": 103672,
+            "RegionName": "Aksaray",
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Amasya",
+            "RegionID": 103673
+        },
+        {
+            "RegionName": "Ankara",
+            "RegionID": 103674,
+            "ParentID": 983
+        },
+        {
+            "RegionName": "Antalya",
+            "RegionID": 103675,
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Ardahan",
+            "RegionID": 103676
+        },
+        {
+            "RegionID": 103677,
+            "RegionName": "Artvin",
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103678,
+            "RegionName": "Afyonkarahisar"
+        },
+        {
+            "RegionName": "Bayburt",
+            "RegionID": 103679,
+            "ParentID": 983
+        },
+        {
+            "RegionID": 103680,
+            "RegionName": "Balikesir",
+            "ParentID": 983
+        },
+        {
+            "RegionName": "Bartin",
+            "RegionID": 103681,
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103682,
+            "RegionName": "Batman"
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Bilecik",
+            "RegionID": 103683
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Bingol",
+            "RegionID": 103684
+        },
+        {
+            "RegionID": 103685,
+            "RegionName": "Bitlis",
+            "ParentID": 983
+        },
+        {
+            "RegionName": "Bolu",
+            "RegionID": 103686,
+            "ParentID": 983
+        },
+        {
+            "RegionID": 103687,
+            "RegionName": "Burdur",
+            "ParentID": 983
+        },
+        {
+            "RegionName": "Bursa",
+            "RegionID": 103688,
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103689,
+            "RegionName": "Van"
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Gaziantep",
+            "RegionID": 103690
+        },
+        {
+            "RegionName": "Giresun",
+            "RegionID": 103691,
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Gumushane",
+            "RegionID": 103692
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Denizli",
+            "RegionID": 103693
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103694,
+            "RegionName": "Diyarbakir"
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103695,
+            "RegionName": "Duzce"
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103696,
+            "RegionName": "Zonguldak"
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103697,
+            "RegionName": "Izmir"
+        },
+        {
+            "RegionName": "Yozgat",
+            "RegionID": 103698,
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103699,
+            "RegionName": "Kayseri"
+        },
+        {
+            "RegionName": "Karabuk",
+            "RegionID": 103700,
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Karaman",
+            "RegionID": 103701
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Kars",
+            "RegionID": 103702
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103703,
+            "RegionName": "Kastamonu"
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103704,
+            "RegionName": "Kahramanmaras"
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Kilis",
+            "RegionID": 103705
+        },
+        {
+            "RegionID": 103706,
+            "RegionName": "Kocaeli",
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103707,
+            "RegionName": "Konya"
+        },
+        {
+            "RegionName": "Kirklareli",
+            "RegionID": 103708,
+            "ParentID": 983
+        },
+        {
+            "RegionName": "Kirsehir",
+            "RegionID": 103709,
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103710,
+            "RegionName": "Kirikkale"
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Kutahya",
+            "RegionID": 103711
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103712,
+            "RegionName": "Malatya"
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Manisa",
+            "RegionID": 103713
+        },
+        {
+            "RegionName": "Mardin",
+            "RegionID": 103714,
+            "ParentID": 983
+        },
+        {
+            "RegionID": 103715,
+            "RegionName": "Mersin",
+            "ParentID": 983
+        },
+        {
+            "RegionName": "Mugla",
+            "RegionID": 103716,
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103717,
+            "RegionName": "Mus"
+        },
+        {
+            "RegionID": 103718,
+            "RegionName": "Nevsehir",
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Nigde",
+            "RegionID": 103719
+        },
+        {
+            "RegionID": 103720,
+            "RegionName": "Ordu",
+            "ParentID": 983
+        },
+        {
+            "RegionID": 103721,
+            "RegionName": "Osmaniye",
+            "ParentID": 983
+        },
+        {
+            "RegionID": 103722,
+            "RegionName": "Rize",
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Sakarya",
+            "RegionID": 103723
+        },
+        {
+            "RegionName": "Samsun",
+            "RegionID": 103724,
+            "ParentID": 983
+        },
+        {
+            "RegionName": "Sivas",
+            "RegionID": 103725,
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103726,
+            "RegionName": "Siirt"
+        },
+        {
+            "RegionID": 103727,
+            "RegionName": "Sinop",
+            "ParentID": 983
+        },
+        {
+            "RegionID": 103728,
+            "RegionName": "Istanbul",
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103729,
+            "RegionName": "Tekirdag"
+        },
+        {
+            "RegionName": "Tokat",
+            "RegionID": 103730,
+            "ParentID": 983
+        },
+        {
+            "RegionID": 103731,
+            "RegionName": "Trabzon",
+            "ParentID": 983
+        },
+        {
+            "RegionID": 103732,
+            "RegionName": "Tunceli",
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Usak",
+            "RegionID": 103733
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103734,
+            "RegionName": "Hakkari"
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Hatay",
+            "RegionID": 103735
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103736,
+            "RegionName": "Canakkale"
+        },
+        {
+            "RegionID": 103737,
+            "RegionName": "Cankiri",
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103738,
+            "RegionName": "Corum"
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103739,
+            "RegionName": "Sanliurfa"
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103740,
+            "RegionName": "Sirnak"
+        },
+        {
+            "RegionName": "Igdir",
+            "RegionID": 103741,
+            "ParentID": 983
+        },
+        {
+            "RegionID": 103742,
+            "RegionName": "Isparta",
+            "ParentID": 983
+        },
+        {
+            "RegionName": "Edirne",
+            "RegionID": 103743,
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103744,
+            "RegionName": "Elazig"
+        },
+        {
+            "ParentID": 983,
+            "RegionName": "Erzincan",
+            "RegionID": 103745
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103746,
+            "RegionName": "Erzurum"
+        },
+        {
+            "RegionName": "Eskisehir",
+            "RegionID": 103747,
+            "ParentID": 983
+        },
+        {
+            "ParentID": 983,
+            "RegionID": 103748,
+            "RegionName": "Yalova"
+        },
+        {
+            "RegionName": "United States",
+            "RegionID": 84,
+            "ParentID": 10002
+        },
+        {
+            "RegionID": 95,
+            "RegionName": "Canada",
+            "ParentID": 10002
+        },
+        {
+            "RegionID": 20917,
+            "RegionName": "Dominican Republic",
+            "ParentID": 10002
+        },
+        {
+            "ParentID": 10002,
+            "RegionName": "Guatemala",
+            "RegionID": 20968
+        },
+        {
+            "ParentID": 10003,
+            "RegionName": "Argentina",
+            "RegionID": 93
+        },
+        {
+            "RegionID": 94,
+            "RegionName": "Brazil",
+            "ParentID": 10003
+        },
+        {
+            "ParentID": 10174,
+            "RegionID": 2,
+            "RegionName": "Saint Petersburg"
+        },
+        {
+            "ParentID": 10174,
+            "RegionID": 10891,
+            "RegionName": "Sosnoviy Bor"
+        },
+        {
+            "RegionID": 98620,
+            "RegionName": "Volkhov district",
+            "ParentID": 10174
+        },
+        {
+            "RegionID": 98621,
+            "RegionName": "Vsevolozhsk District",
+            "ParentID": 10174
+        },
+        {
+            "RegionID": 98622,
+            "RegionName": "Vyborg district",
+            "ParentID": 10174
+        },
+        {
+            "ParentID": 10174,
+            "RegionID": 98623,
+            "RegionName": "Gatchina district"
+        },
+        {
+            "ParentID": 10174,
+            "RegionName": "Kingisepp District",
+            "RegionID": 98624
+        },
+        {
+            "RegionID": 98625,
+            "RegionName": "Kirishsky District",
+            "ParentID": 10174
+        },
+        {
+            "RegionName": "Kirov District",
+            "RegionID": 98626,
+            "ParentID": 10174
+        },
+        {
+            "RegionID": 98629,
+            "RegionName": "Luzhsky District",
+            "ParentID": 10174
+        },
+        {
+            "RegionName": "Podporozhsky District",
+            "RegionID": 98630,
+            "ParentID": 10174
+        },
+        {
+            "RegionID": 98631,
+            "RegionName": "Priozersk District",
+            "ParentID": 10174
+        },
+        {
+            "RegionID": 98632,
+            "RegionName": "Slantsy District",
+            "ParentID": 10174
+        },
+        {
+            "ParentID": 10174,
+            "RegionID": 98633,
+            "RegionName": "Tikhvin District"
+        },
+        {
+            "ParentID": 10174,
+            "RegionName": "Tosnensky District",
+            "RegionID": 98634
+        },
+        {
+            "RegionID": 10902,
+            "RegionName": "Naryan-Mar",
+            "ParentID": 10176
+        },
+        {
+            "RegionID": 11319,
+            "RegionName": "Gorno-Altaysk",
+            "ParentID": 10231
+        },
+        {
+            "RegionID": 11333,
+            "RegionName": "Kyzyl",
+            "ParentID": 10233
+        },
+        {
+            "ParentID": 10243,
+            "RegionID": 11393,
+            "RegionName": "Birobidgan"
+        },
+        {
+            "RegionName": "Belgorod",
+            "RegionID": 4,
+            "ParentID": 10645
+        },
+        {
+            "ParentID": 10645,
+            "RegionName": "Gubkin",
+            "RegionID": 10646
+        },
+        {
+            "ParentID": 10645,
+            "RegionID": 10649,
+            "RegionName": "Stariy Oskol"
+        },
+        {
+            "RegionID": 98697,
+            "RegionName": "Alekseevskii District",
+            "ParentID": 10645
+        },
+        {
+            "RegionID": 98716,
+            "RegionName": "Shebekinsky District",
+            "ParentID": 10645
+        },
+        {
+            "ParentID": 10645,
+            "RegionName": "Yakovlevskij District",
+            "RegionID": 98717
+        },
+        {
+            "RegionID": 191,
+            "RegionName": "Bryansk",
+            "ParentID": 10650
+        },
+        {
+            "ParentID": 10650,
+            "RegionID": 10653,
+            "RegionName": "Klintsy"
+        },
+        {
+            "ParentID": 10658,
+            "RegionID": 192,
+            "RegionName": "Vladimir"
+        },
+        {
+            "RegionName": "Gus-Chrustalniy",
+            "RegionID": 10661,
+            "ParentID": 10658
+        },
+        {
+            "RegionID": 10664,
+            "RegionName": "Kovrov",
+            "ParentID": 10658
+        },
+        {
+            "RegionID": 10668,
+            "RegionName": "Murom",
+            "ParentID": 10658
+        },
+        {
+            "ParentID": 10658,
+            "RegionID": 98745,
+            "RegionName": "Alexandrovsky district"
+        },
+        {
+            "RegionName": "Kirzhachsky District",
+            "RegionID": 98750,
+            "ParentID": 10658
+        },
+        {
+            "RegionID": 98755,
+            "RegionName": "Petushinsky District",
+            "ParentID": 10658
+        },
+        {
+            "RegionName": "Voronezh",
+            "RegionID": 193,
+            "ParentID": 10672
+        },
+        {
+            "ParentID": 10672,
+            "RegionID": 98787,
+            "RegionName": "Rossoshansky District"
+        },
+        {
+            "RegionID": 5,
+            "RegionName": "Ivanovo",
+            "ParentID": 10687
+        },
+        {
+            "ParentID": 10687,
+            "RegionID": 10689,
+            "RegionName": "Kineshma"
+        },
+        {
+            "ParentID": 10687,
+            "RegionName": "Shuya",
+            "RegionID": 10691
+        },
+        {
+            "RegionName": "Kaluga",
+            "RegionID": 6,
+            "ParentID": 10693
+        },
+        {
+            "RegionID": 967,
+            "RegionName": "Obninsk",
+            "ParentID": 10693
+        },
+        {
+            "RegionName": "Maloyaroslavetsky District",
+            "RegionID": 98826,
+            "ParentID": 10693
+        },
+        {
+            "ParentID": 10699,
+            "RegionName": "Kostroma",
+            "RegionID": 7
+        },
+        {
+            "RegionName": "Kursk",
+            "RegionID": 8,
+            "ParentID": 10705
+        },
+        {
+            "ParentID": 10705,
+            "RegionID": 10710,
+            "RegionName": "Zheleznogorsk"
+        },
+        {
+            "ParentID": 10705,
+            "RegionID": 20707,
+            "RegionName": "Kurchatov"
+        },
+        {
+            "RegionID": 9,
+            "RegionName": "Lipetsk",
+            "ParentID": 10712
+        },
+        {
+            "RegionName": "Yelets",
+            "RegionID": 10713,
+            "ParentID": 10712
+        },
+        {
+            "RegionName": "Orel",
+            "RegionID": 10,
+            "ParentID": 10772
+        },
+        {
+            "ParentID": 10776,
+            "RegionName": "Ryazan",
+            "RegionID": 11
+        },
+        {
+            "ParentID": 10776,
+            "RegionName": "Kasimov",
+            "RegionID": 10773
+        },
+        {
+            "RegionName": "Smolensk",
+            "RegionID": 12,
+            "ParentID": 10795
+        },
+        {
+            "ParentID": 10795,
+            "RegionID": 98958,
+            "RegionName": "Vyazemsky District"
+        },
+        {
+            "RegionName": "Gagarinsky district",
+            "RegionID": 98959,
+            "ParentID": 10795
+        },
+        {
+            "ParentID": 10795,
+            "RegionID": 98981,
+            "RegionName": "Yartsevsky District"
+        },
+        {
+            "RegionName": "Tambov",
+            "RegionID": 13,
+            "ParentID": 10802
+        },
+        {
+            "ParentID": 10802,
+            "RegionID": 10803,
+            "RegionName": "Michurinsk"
+        },
+        {
+            "ParentID": 10819,
+            "RegionName": "Tver",
+            "RegionID": 14
+        },
+        {
+            "ParentID": 10819,
+            "RegionName": "Vishniy Volochek",
+            "RegionID": 10807
+        },
+        {
+            "RegionID": 10811,
+            "RegionName": "Kimry",
+            "ParentID": 10819
+        },
+        {
+            "ParentID": 10819,
+            "RegionName": "Rzhev",
+            "RegionID": 10820
+        },
+        {
+            "RegionID": 99008,
+            "RegionName": "Bologovsky District",
+            "ParentID": 10819
+        },
+        {
+            "ParentID": 10819,
+            "RegionName": "Konakovsky District",
+            "RegionID": 99019
+        },
+        {
+            "RegionID": 99028,
+            "RegionName": "Ostashkovsky District",
+            "ParentID": 10819
+        },
+        {
+            "ParentID": 10819,
+            "RegionName": "Udomelsky District",
+            "RegionID": 99039
+        },
+        {
+            "RegionName": "Tula",
+            "RegionID": 15,
+            "ParentID": 10832
+        },
+        {
+            "RegionID": 10828,
+            "RegionName": "Efremov",
+            "ParentID": 10832
+        },
+        {
+            "ParentID": 10832,
+            "RegionName": "Novomoskovsk",
+            "RegionID": 10830
+        },
+        {
+            "RegionName": "Bogoroditsky District",
+            "RegionID": 99044,
+            "ParentID": 10832
+        },
+        {
+            "RegionID": 16,
+            "RegionName": "Yaroslavl",
+            "ParentID": 10841
+        },
+        {
+            "ParentID": 10841,
+            "RegionName": "Pereslavl-Zalesskiy",
+            "RegionID": 10837
+        },
+        {
+            "RegionID": 10839,
+            "RegionName": "Rybinsk",
+            "ParentID": 10841
+        },
+        {
+            "RegionName": "Myshkinsky District",
+            "RegionID": 99070,
+            "ParentID": 10841
+        },
+        {
+            "RegionName": "Tutaevsky District",
+            "RegionID": 99078,
+            "ParentID": 10841
+        },
+        {
+            "RegionID": 99079,
+            "RegionName": "Uglichesky District",
+            "ParentID": 10841
+        },
+        {
+            "ParentID": 10842,
+            "RegionName": "Arhangelsk",
+            "RegionID": 20
+        },
+        {
+            "RegionName": "Kotlas",
+            "RegionID": 10846,
+            "ParentID": 10842
+        },
+        {
+            "RegionID": 10849,
+            "RegionName": "Severodvinsk",
+            "ParentID": 10842
+        },
+        {
+            "ParentID": 10842,
+            "RegionName": "Novodvinsk",
+            "RegionID": 20117
+        },
+        {
+            "ParentID": 10853,
+            "RegionID": 21,
+            "RegionName": "Vologda"
+        },
+        {
+            "RegionName": "Cherepovets",
+            "RegionID": 968,
+            "ParentID": 10853
+        },
+        {
+            "RegionID": 99105,
+            "RegionName": "Velikoustyugsky District",
+            "ParentID": 10853
+        },
+        {
+            "ParentID": 10857,
+            "RegionID": 22,
+            "RegionName": "Kaliningrad"
+        },
+        {
+            "ParentID": 10857,
+            "RegionID": 10860,
+            "RegionName": "Sovetsk"
+        },
+        {
+            "ParentID": 10857,
+            "RegionID": 20139,
+            "RegionName": "Zelenogradsk"
+        },
+        {
+            "ParentID": 10857,
+            "RegionName": "Pionersky",
+            "RegionID": 20144
+        },
+        {
+            "ParentID": 10897,
+            "RegionID": 23,
+            "RegionName": "Murmansk"
+        },
+        {
+            "RegionName": "Apatity",
+            "RegionID": 10894,
+            "ParentID": 10897
+        },
+        {
+            "ParentID": 10897,
+            "RegionID": 10896,
+            "RegionName": "Monchegorsk"
+        },
+        {
+            "ParentID": 10897,
+            "RegionID": 20155,
+            "RegionName": "Olenegorsk"
+        },
+        {
+            "RegionName": "Kandalakshsky District",
+            "RegionID": 101749,
+            "ParentID": 10897
+        },
+        {
+            "RegionName": "Veliky Novgorod",
+            "RegionID": 24,
+            "ParentID": 10904
+        },
+        {
+            "RegionName": "Borovichsky District",
+            "RegionID": 99146,
+            "ParentID": 10904
+        },
+        {
+            "RegionName": "Valdai District",
+            "RegionID": 99147,
+            "ParentID": 10904
+        },
+        {
+            "ParentID": 10904,
+            "RegionName": "Old District",
+            "RegionID": 99161
+        },
+        {
+            "RegionName": "Pskov",
+            "RegionID": 25,
+            "ParentID": 10926
+        },
+        {
+            "ParentID": 10926,
+            "RegionName": "Velikie Luky",
+            "RegionID": 10928
+        },
+        {
+            "RegionID": 18,
+            "RegionName": "Petrozavodsk",
+            "ParentID": 10933
+        },
+        {
+            "ParentID": 10933,
+            "RegionName": "Kostomucsha",
+            "RegionID": 10935
+        },
+        {
+            "ParentID": 10933,
+            "RegionName": "Kondopoga District",
+            "RegionID": 99193
+        },
+        {
+            "ParentID": 10933,
+            "RegionName": "Segezha District",
+            "RegionID": 99203
+        },
+        {
+            "ParentID": 10933,
+            "RegionName": "Sortavalsky District",
+            "RegionID": 110934
+        },
+        {
+            "ParentID": 10939,
+            "RegionName": "Syktyvkar",
+            "RegionID": 19
+        },
+        {
+            "RegionID": 10940,
+            "RegionName": "Vorkuta",
+            "ParentID": 10939
+        },
+        {
+            "RegionName": "Inta",
+            "RegionID": 10941,
+            "ParentID": 10939
+        },
+        {
+            "RegionName": "Usinsk",
+            "RegionID": 10944,
+            "ParentID": 10939
+        },
+        {
+            "RegionID": 10945,
+            "RegionName": "Uhta",
+            "ParentID": 10939
+        },
+        {
+            "ParentID": 10939,
+            "RegionName": "Pechora District",
+            "RegionID": 99210
+        },
+        {
+            "ParentID": 10946,
+            "RegionID": 37,
+            "RegionName": "Astrahan"
+        },
+        {
+            "ParentID": 10946,
+            "RegionName": "Akhtubinsk District",
+            "RegionID": 99221
+        },
+        {
+            "ParentID": 10950,
+            "RegionName": "Volgograd",
+            "RegionID": 38
+        },
+        {
+            "ParentID": 10950,
+            "RegionID": 10951,
+            "RegionName": "Volzhskiy"
+        },
+        {
+            "RegionID": 10959,
+            "RegionName": "Kamishin",
+            "ParentID": 10950
+        },
+        {
+            "ParentID": 10950,
+            "RegionName": "Mihaylovka",
+            "RegionID": 10965
+        },
+        {
+            "ParentID": 10950,
+            "RegionName": "Uryupinsk",
+            "RegionID": 10981
+        },
+        {
+            "RegionName": "Krasnodar",
+            "RegionID": 35,
+            "ParentID": 10995
+        },
+        {
+            "ParentID": 10995,
+            "RegionName": "Sochi",
+            "RegionID": 239
+        },
+        {
+            "RegionID": 970,
+            "RegionName": "Novorossiysk",
+            "ParentID": 10995
+        },
+        {
+            "ParentID": 10995,
+            "RegionName": "Anapa",
+            "RegionID": 1107
+        },
+        {
+            "ParentID": 10995,
+            "RegionID": 10987,
+            "RegionName": "Armavir (Krasnodar Krai)"
+        },
+        {
+            "ParentID": 10995,
+            "RegionID": 10990,
+            "RegionName": "Gelendgik"
+        },
+        {
+            "ParentID": 10995,
+            "RegionID": 99269,
+            "RegionName": "Belorechensk District"
+        },
+        {
+            "RegionID": 99274,
+            "RegionName": "Eisk District",
+            "ParentID": 10995
+        },
+        {
+            "ParentID": 10995,
+            "RegionName": "Kavkazsky District",
+            "RegionID": 99275
+        },
+        {
+            "RegionName": "Krimsky District",
+            "RegionID": 99281,
+            "ParentID": 10995
+        },
+        {
+            "ParentID": 10995,
+            "RegionName": "Slavyansky District",
+            "RegionID": 99293
+        },
+        {
+            "ParentID": 10995,
+            "RegionID": 99297,
+            "RegionName": "Timashyovsk District"
+        },
+        {
+            "RegionName": "Tikhoretsky District",
+            "RegionID": 99298,
+            "ParentID": 10995
+        },
+        {
+            "ParentID": 10995,
+            "RegionName": "Tuapse District",
+            "RegionID": 99299
+        },
+        {
+            "ParentID": 11004,
+            "RegionID": 1093,
+            "RegionName": "Maykop"
+        },
+        {
+            "RegionID": 28,
+            "RegionName": "Makhachkala",
+            "ParentID": 11010
+        },
+        {
+            "RegionName": "Buynaksk",
+            "RegionID": 11006,
+            "ParentID": 11010
+        },
+        {
+            "ParentID": 11010,
+            "RegionID": 11007,
+            "RegionName": "Derbent"
+        },
+        {
+            "ParentID": 11010,
+            "RegionID": 11008,
+            "RegionName": "Kaspiysk"
+        },
+        {
+            "ParentID": 11010,
+            "RegionName": "Kizlyar",
+            "RegionID": 11009
+        },
+        {
+            "RegionName": "Khasavurt",
+            "RegionID": 11011,
+            "ParentID": 11010
+        },
+        {
+            "ParentID": 11010,
+            "RegionID": 21521,
+            "RegionName": "Izberbash"
+        },
+        {
+            "RegionName": "Nazran",
+            "RegionID": 1092,
+            "ParentID": 11012
+        },
+        {
+            "RegionID": 20181,
+            "RegionName": "Magas",
+            "ParentID": 11012
+        },
+        {
+            "RegionID": 30,
+            "RegionName": "Nalchik",
+            "ParentID": 11013
+        },
+        {
+            "ParentID": 11015,
+            "RegionID": 1094,
+            "RegionName": "Elista"
+        },
+        {
+            "RegionID": 1104,
+            "RegionName": "Cherkessk",
+            "ParentID": 11020
+        },
+        {
+            "ParentID": 11021,
+            "RegionID": 33,
+            "RegionName": "Vladikavkaz"
+        },
+        {
+            "RegionName": "Grozniy",
+            "RegionID": 1106,
+            "ParentID": 11024
+        },
+        {
+            "RegionID": 39,
+            "RegionName": "Rostov-na-Donu",
+            "ParentID": 11029
+        },
+        {
+            "RegionID": 238,
+            "RegionName": "Novocherkassk",
+            "ParentID": 11029
+        },
+        {
+            "RegionName": "Taganrog",
+            "RegionID": 971,
+            "ParentID": 11029
+        },
+        {
+            "ParentID": 11029,
+            "RegionID": 11030,
+            "RegionName": "Azov"
+        },
+        {
+            "RegionID": 11033,
+            "RegionName": "Bataysk",
+            "ParentID": 11029
+        },
+        {
+            "RegionID": 11036,
+            "RegionName": "Volgodonsk",
+            "ParentID": 11029
+        },
+        {
+            "RegionID": 11037,
+            "RegionName": "Gukovo",
+            "ParentID": 11029
+        },
+        {
+            "RegionID": 11043,
+            "RegionName": "Kamensk-Shakhtinsky",
+            "ParentID": 11029
+        },
+        {
+            "RegionID": 11049,
+            "RegionName": "Novoshahtinsk",
+            "ParentID": 11029
+        },
+        {
+            "ParentID": 11029,
+            "RegionName": "Shakhty",
+            "RegionID": 11053
+        },
+        {
+            "RegionID": 99411,
+            "RegionName": "Belaya Kalitva District",
+            "ParentID": 11029
+        },
+        {
+            "ParentID": 11069,
+            "RegionID": 36,
+            "RegionName": "Stavropol"
+        },
+        {
+            "ParentID": 11069,
+            "RegionID": 11056,
+            "RegionName": "Georgievsk"
+        },
+        {
+            "ParentID": 11069,
+            "RegionName": "Essentuky",
+            "RegionID": 11057
+        },
+        {
+            "ParentID": 11069,
+            "RegionID": 11062,
+            "RegionName": "Kislovodsk"
+        },
+        {
+            "RegionID": 11063,
+            "RegionName": "Mineralniye Vodi",
+            "ParentID": 11069
+        },
+        {
+            "ParentID": 11069,
+            "RegionName": "Nevinnomissk",
+            "RegionID": 11064
+        },
+        {
+            "RegionName": "Pyatigorsk",
+            "RegionID": 11067,
+            "ParentID": 11069
+        },
+        {
+            "RegionName": "Budyonnovsk District",
+            "RegionID": 99456,
+            "ParentID": 11069
+        },
+        {
+            "ParentID": 11070,
+            "RegionID": 46,
+            "RegionName": "Kirov"
+        },
+        {
+            "RegionName": "Kirovo-Chepetsk",
+            "RegionID": 11071,
+            "ParentID": 11070
+        },
+        {
+            "ParentID": 11070,
+            "RegionName": "Vyatskie Polyani",
+            "RegionID": 20020
+        },
+        {
+            "ParentID": 11077,
+            "RegionID": 41,
+            "RegionName": "Yoshkar-Ola"
+        },
+        {
+            "RegionID": 20721,
+            "RegionName": "Volzhsk",
+            "ParentID": 11077
+        },
+        {
+            "ParentID": 11079,
+            "RegionID": 47,
+            "RegionName": "Nizhny Novgorod"
+        },
+        {
+            "ParentID": 11079,
+            "RegionID": 972,
+            "RegionName": "Dzerzhinsk (Nizhny Novgorod District)"
+        },
+        {
+            "RegionID": 11080,
+            "RegionName": "Arzamas",
+            "ParentID": 11079
+        },
+        {
+            "RegionName": "Sarov",
+            "RegionID": 11083,
+            "ParentID": 11079
+        },
+        {
+            "ParentID": 11079,
+            "RegionName": "Vyksa",
+            "RegionID": 20040
+        },
+        {
+            "RegionName": "Kstovsky District",
+            "RegionID": 99555,
+            "ParentID": 11079
+        },
+        {
+            "RegionName": "Pavlovsky District",
+            "RegionID": 99560,
+            "ParentID": 11079
+        },
+        {
+            "ParentID": 11084,
+            "RegionName": "Orenburg",
+            "RegionID": 48
+        },
+        {
+            "RegionName": "Buzuluk",
+            "RegionID": 11086,
+            "ParentID": 11084
+        },
+        {
+            "RegionID": 11087,
+            "RegionName": "Gay",
+            "ParentID": 11084
+        },
+        {
+            "ParentID": 11084,
+            "RegionName": "Novotroitsk",
+            "RegionID": 11090
+        },
+        {
+            "ParentID": 11084,
+            "RegionID": 11091,
+            "RegionName": "Orsk"
+        },
+        {
+            "ParentID": 11095,
+            "RegionName": "Penza",
+            "RegionID": 49
+        },
+        {
+            "ParentID": 11095,
+            "RegionID": 11101,
+            "RegionName": "Kuznetsk"
+        },
+        {
+            "RegionID": 50,
+            "RegionName": "Perm",
+            "ParentID": 11108
+        },
+        {
+            "RegionName": "Solikamsk",
+            "RegionID": 11110,
+            "ParentID": 11108
+        },
+        {
+            "ParentID": 11108,
+            "RegionID": 20237,
+            "RegionName": "Berezniki"
+        },
+        {
+            "RegionID": 20244,
+            "RegionName": "Lysva",
+            "ParentID": 11108
+        },
+        {
+            "RegionID": 110916,
+            "RegionName": "Chaykovsky District",
+            "ParentID": 11108
+        },
+        {
+            "RegionID": 172,
+            "RegionName": "Ufa",
+            "ParentID": 11111
+        },
+        {
+            "RegionID": 11113,
+            "RegionName": "Kumertau",
+            "ParentID": 11111
+        },
+        {
+            "ParentID": 11111,
+            "RegionName": "Nephtekamsk",
+            "RegionID": 11114
+        },
+        {
+            "RegionID": 11115,
+            "RegionName": "Salavat",
+            "ParentID": 11111
+        },
+        {
+            "ParentID": 11111,
+            "RegionID": 11116,
+            "RegionName": "Sterlitamak"
+        },
+        {
+            "ParentID": 11111,
+            "RegionID": 20235,
+            "RegionName": "Oktyabrsky"
+        },
+        {
+            "ParentID": 11111,
+            "RegionName": "Sibay",
+            "RegionID": 20716
+        },
+        {
+            "ParentID": 11111,
+            "RegionName": "Belebeevsky District",
+            "RegionID": 99675
+        },
+        {
+            "ParentID": 11111,
+            "RegionName": "Beloretsky District",
+            "RegionID": 99677
+        },
+        {
+            "ParentID": 11111,
+            "RegionName": "Ishimbaysky District",
+            "RegionID": 99694
+        },
+        {
+            "ParentID": 11111,
+            "RegionID": 99703,
+            "RegionName": "Meleuzovsky District"
+        },
+        {
+            "RegionID": 99712,
+            "RegionName": "Tuymazinsky District",
+            "ParentID": 11111
+        },
+        {
+            "ParentID": 11111,
+            "RegionID": 99714,
+            "RegionName": "Uchalinsky District"
+        },
+        {
+            "ParentID": 11117,
+            "RegionName": "Saransk",
+            "RegionID": 42
+        },
+        {
+            "RegionID": 99737,
+            "RegionName": "Ruzaevsky District",
+            "ParentID": 11117
+        },
+        {
+            "RegionID": 43,
+            "RegionName": "Kazan",
+            "ParentID": 11119
+        },
+        {
+            "ParentID": 11119,
+            "RegionName": "Naberezhnie Chelny",
+            "RegionID": 236
+        },
+        {
+            "ParentID": 11119,
+            "RegionID": 11121,
+            "RegionName": "Almetyevsk"
+        },
+        {
+            "ParentID": 11119,
+            "RegionName": "Bugulma",
+            "RegionID": 11122
+        },
+        {
+            "ParentID": 11119,
+            "RegionName": "Nizhnekamsk",
+            "RegionID": 11127
+        },
+        {
+            "ParentID": 11119,
+            "RegionID": 11129,
+            "RegionName": "Chistopol"
+        },
+        {
+            "RegionID": 51,
+            "RegionName": "Samara",
+            "ParentID": 11131
+        },
+        {
+            "ParentID": 11131,
+            "RegionName": "Togliatti",
+            "RegionID": 240
+        },
+        {
+            "ParentID": 11131,
+            "RegionID": 11132,
+            "RegionName": "Zhiguliovsk"
+        },
+        {
+            "ParentID": 11131,
+            "RegionID": 11135,
+            "RegionName": "Novokuibishevsk"
+        },
+        {
+            "RegionID": 11139,
+            "RegionName": "Sizran",
+            "ParentID": 11131
+        },
+        {
+            "RegionName": "Saratov",
+            "RegionID": 194,
+            "ParentID": 11146
+        },
+        {
+            "ParentID": 11146,
+            "RegionID": 99817,
+            "RegionName": "Balakovo District"
+        },
+        {
+            "ParentID": 11146,
+            "RegionName": "Balashov District",
+            "RegionID": 99818
+        },
+        {
+            "ParentID": 11146,
+            "RegionID": 99832,
+            "RegionName": "Marksovsky District"
+        },
+        {
+            "RegionID": 99850,
+            "RegionName": "Engelssky District",
+            "ParentID": 11146
+        },
+        {
+            "ParentID": 11148,
+            "RegionID": 44,
+            "RegionName": "Izhevsk"
+        },
+        {
+            "RegionID": 11149,
+            "RegionName": "Votkinsk",
+            "ParentID": 11148
+        },
+        {
+            "RegionID": 11150,
+            "RegionName": "Glazov",
+            "ParentID": 11148
+        },
+        {
+            "RegionName": "Sarapul",
+            "RegionID": 11152,
+            "ParentID": 11148
+        },
+        {
+            "RegionID": 195,
+            "RegionName": "Ulyanovsk",
+            "ParentID": 11153
+        },
+        {
+            "ParentID": 11153,
+            "RegionName": "Dimitrovgrad",
+            "RegionID": 11155
+        },
+        {
+            "ParentID": 11153,
+            "RegionName": "Novoulyanovsk",
+            "RegionID": 20070
+        },
+        {
+            "RegionID": 45,
+            "RegionName": "Cheboksary",
+            "ParentID": 11156
+        },
+        {
+            "RegionID": 20078,
+            "RegionName": "Shumerlya",
+            "ParentID": 11156
+        },
+        {
+            "RegionName": "Novocheboksarsk",
+            "RegionID": 37133,
+            "ParentID": 11156
+        },
+        {
+            "ParentID": 11158,
+            "RegionName": "Kurgan",
+            "RegionID": 53
+        },
+        {
+            "RegionID": 11159,
+            "RegionName": "Shadrinsk",
+            "ParentID": 11158
+        },
+        {
+            "RegionID": 54,
+            "RegionName": "Yekaterinburg",
+            "ParentID": 11162
+        },
+        {
+            "ParentID": 11162,
+            "RegionID": 11160,
+            "RegionName": "Asbest"
+        },
+        {
+            "RegionName": "Verhnya Salda",
+            "RegionID": 11161,
+            "ParentID": 11162
+        },
+        {
+            "ParentID": 11162,
+            "RegionName": "Kamensk-Uralskiy",
+            "RegionID": 11164
+        },
+        {
+            "RegionID": 11165,
+            "RegionName": "Krasnoturinsk",
+            "ParentID": 11162
+        },
+        {
+            "ParentID": 11162,
+            "RegionName": "Kushva",
+            "RegionID": 11166
+        },
+        {
+            "ParentID": 11162,
+            "RegionID": 11167,
+            "RegionName": "Lesnoy"
+        },
+        {
+            "ParentID": 11162,
+            "RegionID": 11168,
+            "RegionName": "Nizhniy Tagil"
+        },
+        {
+            "ParentID": 11162,
+            "RegionID": 11169,
+            "RegionName": "Nignaya Tura"
+        },
+        {
+            "RegionID": 11170,
+            "RegionName": "Novouralsk",
+            "ParentID": 11162
+        },
+        {
+            "RegionID": 11171,
+            "RegionName": "Pervouralsk",
+            "ParentID": 11162
+        },
+        {
+            "RegionID": 11172,
+            "RegionName": "Serov",
+            "ParentID": 11162
+        },
+        {
+            "RegionID": 20224,
+            "RegionName": "Revda",
+            "ParentID": 11162
+        },
+        {
+            "ParentID": 11162,
+            "RegionName": "Kachkanar",
+            "RegionID": 20234
+        },
+        {
+            "RegionID": 20579,
+            "RegionName": "Beloyarskiy",
+            "ParentID": 11162
+        },
+        {
+            "RegionID": 20654,
+            "RegionName": "Nevyansk",
+            "ParentID": 11162
+        },
+        {
+            "ParentID": 11162,
+            "RegionID": 20672,
+            "RegionName": "Severouralsk"
+        },
+        {
+            "ParentID": 11162,
+            "RegionName": "Rezh",
+            "RegionID": 20684
+        },
+        {
+            "RegionName": "Krasnoufimsk",
+            "RegionID": 20691,
+            "ParentID": 11162
+        },
+        {
+            "ParentID": 11162,
+            "RegionID": 20720,
+            "RegionName": "Verhnyaya Pyshma"
+        },
+        {
+            "ParentID": 11162,
+            "RegionName": "Polevskoj",
+            "RegionID": 21726
+        },
+        {
+            "ParentID": 11162,
+            "RegionName": "Berezovskiy (Sverdlovsk District)",
+            "RegionID": 29397
+        },
+        {
+            "ParentID": 11176,
+            "RegionName": "Tyumen",
+            "RegionID": 55
+        },
+        {
+            "RegionID": 11173,
+            "RegionName": "Ishim",
+            "ParentID": 11176
+        },
+        {
+            "ParentID": 11176,
+            "RegionName": "Tobolsk",
+            "RegionID": 11175
+        },
+        {
+            "ParentID": 11176,
+            "RegionID": 11178,
+            "RegionName": "Yalutorovsk"
+        },
+        {
+            "ParentID": 11193,
+            "RegionID": 57,
+            "RegionName": "Khanty-Mansiysk"
+        },
+        {
+            "RegionID": 973,
+            "RegionName": "Surgut",
+            "ParentID": 11193
+        },
+        {
+            "ParentID": 11193,
+            "RegionName": "Nizhnevartovsk",
+            "RegionID": 1091
+        },
+        {
+            "ParentID": 11193,
+            "RegionID": 11177,
+            "RegionName": "Ugorsk"
+        },
+        {
+            "RegionID": 11180,
+            "RegionName": "Kogalym",
+            "ParentID": 11193
+        },
+        {
+            "RegionID": 11181,
+            "RegionName": "Langepas",
+            "ParentID": 11193
+        },
+        {
+            "ParentID": 11193,
+            "RegionID": 11182,
+            "RegionName": "Megion"
+        },
+        {
+            "ParentID": 11193,
+            "RegionName": "Nefteugansk",
+            "RegionID": 11184
+        },
+        {
+            "ParentID": 11193,
+            "RegionID": 11186,
+            "RegionName": "Nyagan"
+        },
+        {
+            "ParentID": 11193,
+            "RegionName": "Pyt-Yah",
+            "RegionID": 11188
+        },
+        {
+            "ParentID": 11193,
+            "RegionName": "Radugniy",
+            "RegionID": 11189
+        },
+        {
+            "ParentID": 11193,
+            "RegionName": "Uray",
+            "RegionID": 11192
+        },
+        {
+            "ParentID": 11225,
+            "RegionID": 56,
+            "RegionName": "Chelyabinsk"
+        },
+        {
+            "RegionName": "Magnitogorsk",
+            "RegionID": 235,
+            "ParentID": 11225
+        },
+        {
+            "ParentID": 11225,
+            "RegionID": 11200,
+            "RegionName": "Verhniy Ufaley"
+        },
+        {
+            "ParentID": 11225,
+            "RegionName": "Zlatoust",
+            "RegionID": 11202
+        },
+        {
+            "RegionID": 11207,
+            "RegionName": "Kopeysk",
+            "ParentID": 11225
+        },
+        {
+            "RegionName": "Miass",
+            "RegionID": 11212,
+            "ParentID": 11225
+        },
+        {
+            "RegionID": 11214,
+            "RegionName": "Ozersk",
+            "ParentID": 11225
+        },
+        {
+            "ParentID": 11225,
+            "RegionName": "Sneginsk",
+            "RegionID": 11218
+        },
+        {
+            "ParentID": 11225,
+            "RegionName": "Troitsk",
+            "RegionID": 11220
+        },
+        {
+            "RegionID": 11223,
+            "RegionName": "Ust-Katav",
+            "ParentID": 11225
+        },
+        {
+            "ParentID": 11225,
+            "RegionName": "Chebarkul",
+            "RegionID": 11224
+        },
+        {
+            "ParentID": 11225,
+            "RegionID": 11227,
+            "RegionName": "Ugnouralsk"
+        },
+        {
+            "RegionID": 100005,
+            "RegionName": "Ashinsky District",
+            "ParentID": 11225
+        },
+        {
+            "ParentID": 11225,
+            "RegionName": "Satkinsky District",
+            "RegionID": 100020
+        },
+        {
+            "ParentID": 11232,
+            "RegionName": "Salekhard",
+            "RegionID": 58
+        },
+        {
+            "ParentID": 11232,
+            "RegionID": 11228,
+            "RegionName": "Gubkinskiy"
+        },
+        {
+            "ParentID": 11232,
+            "RegionName": "Noviy Urengoy",
+            "RegionID": 11230
+        },
+        {
+            "RegionName": "Noyabrsk",
+            "RegionID": 11231,
+            "ParentID": 11232
+        },
+        {
+            "ParentID": 11232,
+            "RegionName": "Nadymsky District",
+            "RegionID": 100028
+        },
+        {
+            "RegionName": "Barnaul",
+            "RegionID": 197,
+            "ParentID": 11235
+        },
+        {
+            "RegionID": 975,
+            "RegionName": "Biysk",
+            "ParentID": 11235
+        },
+        {
+            "ParentID": 11235,
+            "RegionName": "Zarinsk",
+            "RegionID": 11240
+        },
+        {
+            "ParentID": 11235,
+            "RegionID": 11246,
+            "RegionName": "Novoaltaysk"
+        },
+        {
+            "RegionID": 11251,
+            "RegionName": "Rubtsovsk",
+            "ParentID": 11235
+        },
+        {
+            "ParentID": 11266,
+            "RegionName": "Irkutsk",
+            "RegionID": 63
+        },
+        {
+            "ParentID": 11266,
+            "RegionID": 976,
+            "RegionName": "Bratsk"
+        },
+        {
+            "ParentID": 11266,
+            "RegionID": 11256,
+            "RegionName": "Angarsk"
+        },
+        {
+            "ParentID": 11266,
+            "RegionID": 11271,
+            "RegionName": "Tulun"
+        },
+        {
+            "ParentID": 11266,
+            "RegionID": 11272,
+            "RegionName": "Usole-Sibirskoe"
+        },
+        {
+            "RegionID": 11273,
+            "RegionName": "Ust-Ilimsk",
+            "ParentID": 11266
+        },
+        {
+            "ParentID": 11266,
+            "RegionName": "Cheremkhovo",
+            "RegionID": 11274
+        },
+        {
+            "ParentID": 11266,
+            "RegionName": "Nizhneudinsk District",
+            "RegionID": 100109
+        },
+        {
+            "ParentID": 11266,
+            "RegionID": 100112,
+            "RegionName": "Tayshetsky District"
+        },
+        {
+            "RegionName": "Ust-Kutsky District",
+            "RegionID": 100116,
+            "ParentID": 11266
+        },
+        {
+            "ParentID": 11282,
+            "RegionID": 64,
+            "RegionName": "Kemerovo"
+        },
+        {
+            "RegionID": 237,
+            "RegionName": "Novokuznetsk",
+            "ParentID": 11282
+        },
+        {
+            "ParentID": 11282,
+            "RegionID": 11276,
+            "RegionName": "Angero-Sudgensk"
+        },
+        {
+            "RegionName": "Belovo",
+            "RegionID": 11277,
+            "ParentID": 11282
+        },
+        {
+            "ParentID": 11282,
+            "RegionID": 11278,
+            "RegionName": "Berezovskiy (Kemerovo District)"
+        },
+        {
+            "ParentID": 11282,
+            "RegionID": 11283,
+            "RegionName": "Kiselevsk"
+        },
+        {
+            "ParentID": 11282,
+            "RegionID": 11285,
+            "RegionName": "Leninsk-Kuznetskiy"
+        },
+        {
+            "RegionName": "Mezgdurechensk",
+            "RegionID": 11287,
+            "ParentID": 11282
+        },
+        {
+            "ParentID": 11282,
+            "RegionName": "Myski",
+            "RegionID": 11288
+        },
+        {
+            "ParentID": 11282,
+            "RegionID": 11291,
+            "RegionName": "Prokopevsk"
+        },
+        {
+            "ParentID": 11282,
+            "RegionName": "Polysaevo",
+            "RegionID": 11292
+        },
+        {
+            "RegionID": 11299,
+            "RegionName": "Urga",
+            "ParentID": 11282
+        },
+        {
+            "ParentID": 11309,
+            "RegionName": "Krasnoyarsk",
+            "RegionID": 62
+        },
+        {
+            "ParentID": 11309,
+            "RegionName": "Achinsk",
+            "RegionID": 11302
+        },
+        {
+            "ParentID": 11309,
+            "RegionID": 11304,
+            "RegionName": "Eniseysk"
+        },
+        {
+            "RegionName": "Minusinsk",
+            "RegionID": 11310,
+            "ParentID": 11309
+        },
+        {
+            "ParentID": 11309,
+            "RegionID": 11311,
+            "RegionName": "Norilsk"
+        },
+        {
+            "ParentID": 11309,
+            "RegionName": "Zheleznogorsk",
+            "RegionID": 20086
+        },
+        {
+            "ParentID": 11309,
+            "RegionName": "Zelenogorsk",
+            "RegionID": 20088
+        },
+        {
+            "RegionID": 65,
+            "RegionName": "Novosibirsk",
+            "ParentID": 11316
+        },
+        {
+            "RegionName": "Berdsk",
+            "RegionID": 11314,
+            "ParentID": 11316
+        },
+        {
+            "RegionName": "Iskitim",
+            "RegionID": 20100,
+            "ParentID": 11316
+        },
+        {
+            "RegionID": 100183,
+            "RegionName": "Barabinsk District",
+            "ParentID": 11316
+        },
+        {
+            "RegionID": 100189,
+            "RegionName": "Karasuksky District",
+            "ParentID": 11316
+        },
+        {
+            "RegionID": 66,
+            "RegionName": "Omsk",
+            "ParentID": 11318
+        },
+        {
+            "ParentID": 11330,
+            "RegionName": "Ulan-Ude",
+            "RegionID": 198
+        },
+        {
+            "ParentID": 11330,
+            "RegionID": 11327,
+            "RegionName": "Severobaykalsk"
+        },
+        {
+            "ParentID": 11330,
+            "RegionID": 100244,
+            "RegionName": "Barguzin District"
+        },
+        {
+            "RegionName": "Abakan",
+            "RegionID": 1095,
+            "ParentID": 11340
+        },
+        {
+            "RegionName": "Tomsk",
+            "RegionID": 67,
+            "ParentID": 11353
+        },
+        {
+            "RegionName": "Seversk",
+            "RegionID": 11351,
+            "ParentID": 11353
+        },
+        {
+            "RegionID": 11352,
+            "RegionName": "Strezgevoy",
+            "ParentID": 11353
+        },
+        {
+            "RegionName": "Kargasoksky District",
+            "RegionID": 100278,
+            "ParentID": 11353
+        },
+        {
+            "ParentID": 11353,
+            "RegionID": 100280,
+            "RegionName": "Kolpashevsky District"
+        },
+        {
+            "RegionID": 77,
+            "RegionName": "Blagoveshchensk",
+            "ParentID": 11375
+        },
+        {
+            "ParentID": 11375,
+            "RegionID": 11374,
+            "RegionName": "Belogorsk"
+        },
+        {
+            "ParentID": 11375,
+            "RegionName": "Svobodniy",
+            "RegionID": 11387
+        },
+        {
+            "ParentID": 11375,
+            "RegionID": 11391,
+            "RegionName": "Tynda"
+        },
+        {
+            "ParentID": 11398,
+            "RegionID": 78,
+            "RegionName": "Petropavlovsk"
+        },
+        {
+            "ParentID": 11403,
+            "RegionID": 79,
+            "RegionName": "Magadan"
+        },
+        {
+            "ParentID": 11409,
+            "RegionID": 75,
+            "RegionName": "Vladivostok"
+        },
+        {
+            "RegionName": "Nahodka",
+            "RegionID": 974,
+            "ParentID": 11409
+        },
+        {
+            "RegionID": 11405,
+            "RegionName": "Arsenev",
+            "ParentID": 11409
+        },
+        {
+            "RegionID": 11406,
+            "RegionName": "Artem",
+            "ParentID": 11409
+        },
+        {
+            "RegionID": 11411,
+            "RegionName": "Dalnegorsk",
+            "ParentID": 11409
+        },
+        {
+            "ParentID": 11409,
+            "RegionName": "Spassk-Dalniy",
+            "RegionID": 11425
+        },
+        {
+            "ParentID": 11409,
+            "RegionID": 11426,
+            "RegionName": "Ussuriysk"
+        },
+        {
+            "RegionID": 74,
+            "RegionName": "Yakutsk",
+            "ParentID": 11443
+        },
+        {
+            "RegionID": 101987,
+            "RegionName": "Neryungrinsky District",
+            "ParentID": 11443
+        },
+        {
+            "RegionName": "Yuzhno-Sakhalinsk",
+            "RegionID": 80,
+            "ParentID": 11450
+        },
+        {
+            "RegionID": 20160,
+            "RegionName": "Nevelsk",
+            "ParentID": 11450
+        },
+        {
+            "ParentID": 11457,
+            "RegionName": "Khabarovsk",
+            "RegionID": 76
+        },
+        {
+            "ParentID": 11457,
+            "RegionName": "Komsomolsk-at-Amur",
+            "RegionID": 11453
+        },
+        {
+            "RegionName": "Amursky District",
+            "RegionID": 100398,
+            "ParentID": 11457
+        },
+        {
+            "RegionName": "Kolpino",
+            "RegionID": 26081,
+            "ParentID": 20293
+        },
+        {
+            "ParentID": 20297,
+            "RegionName": "Pushkin",
+            "RegionID": 10884
+        },
+        {
+            "ParentID": 20529,
+            "RegionName": "Lviv",
+            "RegionID": 144
+        },
+        {
+            "RegionID": 961,
+            "RegionName": "Khmelnytskyi",
+            "ParentID": 20535
+        },
+        {
+            "RegionName": "Donetsk",
+            "RegionID": 142,
+            "ParentID": 20536
+        },
+        {
+            "RegionName": "Mariupol",
+            "RegionID": 10366,
+            "ParentID": 20536
+        },
+        {
+            "RegionID": 20554,
+            "RegionName": "Kramatorsk",
+            "ParentID": 20536
+        },
+        {
+            "ParentID": 20536,
+            "RegionID": 21774,
+            "RegionName": "Horlivka"
+        },
+        {
+            "RegionID": 24876,
+            "RegionName": "Makiivka",
+            "ParentID": 20536
+        },
+        {
+            "RegionID": 141,
+            "RegionName": "Dnipro",
+            "ParentID": 20537
+        },
+        {
+            "RegionID": 10347,
+            "RegionName": "Kryvyi Rih",
+            "ParentID": 20537
+        },
+        {
+            "RegionID": 21773,
+            "RegionName": "Nikopol",
+            "ParentID": 20537
+        },
+        {
+            "ParentID": 20537,
+            "RegionName": "Kamianske",
+            "RegionID": 21775
+        },
+        {
+            "RegionID": 28401,
+            "RegionName": "Pavlohrad",
+            "ParentID": 20537
+        },
+        {
+            "ParentID": 20538,
+            "RegionID": 147,
+            "RegionName": "Kharkiv"
+        },
+        {
+            "RegionID": 960,
+            "RegionName": "Zaporizhia",
+            "ParentID": 20539
+        },
+        {
+            "ParentID": 20540,
+            "RegionName": "Luhansk",
+            "RegionID": 222
+        },
+        {
+            "RegionName": "Alchevsk",
+            "RegionID": 24885,
+            "ParentID": 20540
+        },
+        {
+            "ParentID": 20540,
+            "RegionID": 24893,
+            "RegionName": "Sievierodonetsk"
+        },
+        {
+            "RegionName": "Odesa",
+            "RegionID": 145,
+            "ParentID": 20541
+        },
+        {
+            "ParentID": 20542,
+            "RegionName": "Kherson",
+            "RegionID": 962
+        },
+        {
+            "ParentID": 20543,
+            "RegionID": 148,
+            "RegionName": "Mykolaiv"
+        },
+        {
+            "RegionID": 143,
+            "RegionName": "Kyiv",
+            "ParentID": 20544
+        },
+        {
+            "ParentID": 20544,
+            "RegionName": "Bila Tserkva",
+            "RegionID": 10369
+        },
+        {
+            "ParentID": 20545,
+            "RegionName": "Vinnytsia",
+            "RegionID": 963
+        },
+        {
+            "RegionID": 964,
+            "RegionName": "Poltava",
+            "ParentID": 20549
+        },
+        {
+            "RegionName": "Kremenchuk",
+            "RegionID": 21609,
+            "ParentID": 20549
+        },
+        {
+            "RegionID": 29053,
+            "RegionName": "Nizhyn",
+            "ParentID": 20551
+        },
+        {
+            "RegionID": 965,
+            "RegionName": "Sumy",
+            "ParentID": 20552
+        },
+        {
+            "ParentID": 20733,
+            "RegionID": 20734,
+            "RegionName": "Abidjan"
+        },
+        {
+            "ParentID": 21949,
+            "RegionID": 68,
+            "RegionName": "Chita"
+        },
+        {
+            "ParentID": 24696,
+            "RegionID": 27217,
+            "RegionName": "Bahchisaraj"
+        },
+        {
+            "RegionID": 28786,
+            "RegionName": "Shchelkino",
+            "ParentID": 24702
+        },
+        {
+            "ParentID": 29403,
+            "RegionName": "Nur-Sultan",
+            "RegionID": 163
+        },
+        {
+            "ParentID": 29403,
+            "RegionID": 20809,
+            "RegionName": "Kokshetau"
+        },
+        {
+            "RegionName": "Aktobe",
+            "RegionID": 20273,
+            "ParentID": 29404
+        },
+        {
+            "ParentID": 29406,
+            "RegionID": 162,
+            "RegionName": "Almaty"
+        },
+        {
+            "RegionName": "Taldikorgan",
+            "RegionID": 10303,
+            "ParentID": 29406
+        },
+        {
+            "ParentID": 29406,
+            "RegionID": 116777,
+            "RegionName": "Panfilov District"
+        },
+        {
+            "ParentID": 29406,
+            "RegionID": 116778,
+            "RegionName": "Zhambyl District"
+        },
+        {
+            "RegionID": 116779,
+            "RegionName": "Ile District",
+            "ParentID": 29406
+        },
+        {
+            "ParentID": 29406,
+            "RegionName": "Karasay District",
+            "RegionID": 116780
+        },
+        {
+            "ParentID": 29406,
+            "RegionName": "Talgar District",
+            "RegionID": 116781
+        },
+        {
+            "ParentID": 29406,
+            "RegionID": 116782,
+            "RegionName": "Enbekshikazakh District"
+        },
+        {
+            "RegionName": "Atyrau",
+            "RegionID": 10291,
+            "ParentID": 29407
+        },
+        {
+            "ParentID": 29408,
+            "RegionName": "Semey",
+            "RegionID": 165
+        },
+        {
+            "RegionName": "Ust-Kamenogorsk",
+            "RegionID": 10306,
+            "ParentID": 29408
+        },
+        {
+            "ParentID": 29409,
+            "RegionName": "Taraz",
+            "RegionID": 21094
+        },
+        {
+            "ParentID": 29409,
+            "RegionName": "Korday District",
+            "RegionID": 116960
+        },
+        {
+            "ParentID": 29410,
+            "RegionName": "Uralsk",
+            "RegionID": 10305
+        },
+        {
+            "ParentID": 29411,
+            "RegionID": 164,
+            "RegionName": "Karaganda"
+        },
+        {
+            "ParentID": 29411,
+            "RegionName": "Zhezkazgan",
+            "RegionID": 10308
+        },
+        {
+            "RegionID": 35393,
+            "RegionName": "Temirtau",
+            "ParentID": 29411
+        },
+        {
+            "RegionName": "Kostanai",
+            "RegionID": 10295,
+            "ParentID": 29412
+        },
+        {
+            "ParentID": 29412,
+            "RegionID": 10300,
+            "RegionName": "Rudny"
+        },
+        {
+            "ParentID": 29413,
+            "RegionID": 21050,
+            "RegionName": "Kyzylorda"
+        },
+        {
+            "ParentID": 29414,
+            "RegionID": 29575,
+            "RegionName": "Aktau"
+        },
+        {
+            "RegionName": "Zhanaozen",
+            "RegionID": 29577,
+            "ParentID": 29414
+        },
+        {
+            "ParentID": 29414,
+            "RegionID": 116954,
+            "RegionName": "Munaily District"
+        },
+        {
+            "ParentID": 29415,
+            "RegionName": "Pavlodar",
+            "RegionID": 190
+        },
+        {
+            "RegionName": "Ekibastuz",
+            "RegionID": 29590,
+            "ParentID": 29415
+        },
+        {
+            "RegionName": "Petropavlovsk",
+            "RegionID": 10298,
+            "ParentID": 29416
+        },
+        {
+            "ParentID": 29417,
+            "RegionID": 221,
+            "RegionName": "Chimkent"
+        },
+        {
+            "ParentID": 29417,
+            "RegionID": 21106,
+            "RegionName": "Turkestan"
+        },
+        {
+            "RegionID": 116939,
+            "RegionName": "Kazygurt District",
+            "ParentID": 29417
+        },
+        {
+            "RegionID": 116940,
+            "RegionName": "Maktaaral District",
+            "ParentID": 29417
+        },
+        {
+            "RegionID": 116941,
+            "RegionName": "Ordabasy District",
+            "ParentID": 29417
+        },
+        {
+            "ParentID": 29417,
+            "RegionID": 116943,
+            "RegionName": "Sayram District"
+        },
+        {
+            "ParentID": 29417,
+            "RegionID": 116944,
+            "RegionName": "Saryagash District"
+        },
+        {
+            "ParentID": 29417,
+            "RegionID": 116946,
+            "RegionName": "Tole Bi District"
+        },
+        {
+            "ParentID": 29417,
+            "RegionName": "Tulkibas District",
+            "RegionID": 116947
+        },
+        {
+            "RegionName": "Shardara District",
+            "RegionID": 116948,
+            "ParentID": 29417
+        },
+        {
+            "ParentID": 29629,
+            "RegionName": "Mogilev",
+            "RegionID": 158
+        },
+        {
+            "ParentID": 29629,
+            "RegionID": 20729,
+            "RegionName": "Bobruisk"
+        },
+        {
+            "RegionID": 102136,
+            "RegionName": "Bikhovsky District",
+            "ParentID": 29629
+        },
+        {
+            "RegionName": "Goretsky District",
+            "RegionID": 102138,
+            "ParentID": 29629
+        },
+        {
+            "ParentID": 29629,
+            "RegionName": "Klimovichsky District",
+            "RegionID": 102141
+        },
+        {
+            "ParentID": 29629,
+            "RegionName": "Krichevsky District",
+            "RegionID": 102144
+        },
+        {
+            "RegionID": 102149,
+            "RegionName": "Osipovichsky District",
+            "ParentID": 29629
+        },
+        {
+            "ParentID": 29629,
+            "RegionName": "Shklovsky District",
+            "RegionID": 102154
+        },
+        {
+            "RegionName": "Minsk",
+            "RegionID": 157,
+            "ParentID": 29630
+        },
+        {
+            "RegionID": 26034,
+            "RegionName": "Zhodzina",
+            "ParentID": 29630
+        },
+        {
+            "ParentID": 29630,
+            "RegionName": "Borisovsky District",
+            "RegionID": 102156
+        },
+        {
+            "ParentID": 29630,
+            "RegionID": 102157,
+            "RegionName": "Vileysky District"
+        },
+        {
+            "RegionName": "Dzerzhinsky District",
+            "RegionID": 102159,
+            "ParentID": 29630
+        },
+        {
+            "RegionID": 102162,
+            "RegionName": "Krupsky District",
+            "ParentID": 29630
+        },
+        {
+            "RegionID": 102165,
+            "RegionName": "Molodechnensky District",
+            "ParentID": 29630
+        },
+        {
+            "RegionID": 102169,
+            "RegionName": "Slutsky District",
+            "ParentID": 29630
+        },
+        {
+            "ParentID": 29630,
+            "RegionID": 102170,
+            "RegionName": "Salihorsky District"
+        },
+        {
+            "RegionID": 155,
+            "RegionName": "Gomel",
+            "ParentID": 29631
+        },
+        {
+            "RegionName": "Zhlobinsky district",
+            "RegionID": 102103,
+            "ParentID": 29631
+        },
+        {
+            "ParentID": 29631,
+            "RegionName": "Kalinovichsky district",
+            "RegionID": 102104
+        },
+        {
+            "ParentID": 29631,
+            "RegionName": "Mozirsky district",
+            "RegionID": 102108
+        },
+        {
+            "ParentID": 29631,
+            "RegionID": 102112,
+            "RegionName": "Rechitsky district"
+        },
+        {
+            "RegionName": "Rogachevsky district",
+            "RegionID": 102113,
+            "ParentID": 29631
+        },
+        {
+            "ParentID": 29631,
+            "RegionName": "Svetlogorsky district",
+            "RegionID": 102114
+        },
+        {
+            "ParentID": 29632,
+            "RegionID": 153,
+            "RegionName": "Brest"
+        },
+        {
+            "RegionName": "Baranavichy",
+            "RegionID": 21015,
+            "ParentID": 29632
+        },
+        {
+            "RegionID": 21510,
+            "RegionName": "Pinsk",
+            "ParentID": 29632
+        },
+        {
+            "RegionName": "Kobrinsky District",
+            "RegionID": 102089,
+            "ParentID": 29632
+        },
+        {
+            "RegionName": "Vitebsk",
+            "RegionID": 154,
+            "ParentID": 29633
+        },
+        {
+            "ParentID": 29633,
+            "RegionID": 26030,
+            "RegionName": "Navapolatsk"
+        },
+        {
+            "ParentID": 29633,
+            "RegionID": 102178,
+            "RegionName": "Verkhnedvinsky District"
+        },
+        {
+            "ParentID": 29633,
+            "RegionID": 102180,
+            "RegionName": "Gluboksky District"
+        },
+        {
+            "RegionName": "Myory District",
+            "RegionID": 102186,
+            "ParentID": 29633
+        },
+        {
+            "RegionName": "Orshansky District",
+            "RegionID": 102187,
+            "ParentID": 29633
+        },
+        {
+            "RegionID": 102188,
+            "RegionName": "Polotsky District",
+            "ParentID": 29633
+        },
+        {
+            "ParentID": 29633,
+            "RegionName": "Pastavsky District",
+            "RegionID": 102189
+        },
+        {
+            "ParentID": 29634,
+            "RegionName": "Grodno",
+            "RegionID": 10274
+        },
+        {
+            "RegionName": "Volkovisski District",
+            "RegionID": 102118,
+            "ParentID": 29634
+        },
+        {
+            "RegionID": 102125,
+            "RegionName": "Lidsky District",
+            "ParentID": 29634
+        },
+        {
+            "ParentID": 29634,
+            "RegionName": "Mostovsky District",
+            "RegionID": 102126
+        },
+        {
+            "ParentID": 29634,
+            "RegionID": 102127,
+            "RegionName": "Novogrudsky District"
+        },
+        {
+            "ParentID": 29634,
+            "RegionName": "Slonimsky District",
+            "RegionID": 102131
+        },
+        {
+            "ParentID": 29634,
+            "RegionID": 102132,
+            "RegionName": "Smorgonsky District"
+        },
+        {
+            "ParentID": 98580,
+            "RegionID": 10721,
+            "RegionName": "Volokolamsk"
+        },
+        {
+            "ParentID": 98581,
+            "RegionID": 10722,
+            "RegionName": "Voskresensk"
+        },
+        {
+            "ParentID": 98581,
+            "RegionID": 21632,
+            "RegionName": "Beloozerskij"
+        },
+        {
+            "RegionID": 10723,
+            "RegionName": "Dmitrov",
+            "ParentID": 98582
+        },
+        {
+            "ParentID": 98584,
+            "RegionID": 10727,
+            "RegionName": "Egorievsk"
+        },
+        {
+            "RegionID": 10728,
+            "RegionName": "Zaraysk",
+            "ParentID": 98585
+        },
+        {
+            "RegionName": "Istra",
+            "RegionID": 10731,
+            "ParentID": 98586
+        },
+        {
+            "RegionID": 21627,
+            "RegionName": "Dedovsk",
+            "ParentID": 98586
+        },
+        {
+            "RegionID": 10732,
+            "RegionName": "Kashira",
+            "ParentID": 98587
+        },
+        {
+            "ParentID": 98588,
+            "RegionName": "Klin",
+            "RegionID": 10733
+        },
+        {
+            "RegionName": "Krasnogorsk",
+            "RegionID": 10735,
+            "ParentID": 98590
+        },
+        {
+            "ParentID": 98590,
+            "RegionName": "Nakhabino",
+            "RegionID": 21745
+        },
+        {
+            "ParentID": 98591,
+            "RegionID": 10719,
+            "RegionName": "Vidnoe"
+        },
+        {
+            "ParentID": 98593,
+            "RegionID": 10737,
+            "RegionName": "Luhovicy"
+        },
+        {
+            "RegionName": "Lubercy",
+            "RegionID": 10738,
+            "ParentID": 98594
+        },
+        {
+            "RegionID": 10739,
+            "RegionName": "Mozhaysk",
+            "ParentID": 98595
+        },
+        {
+            "ParentID": 98596,
+            "RegionName": "Mytischi",
+            "RegionID": 10740
+        },
+        {
+            "ParentID": 98597,
+            "RegionName": "Aprelevka",
+            "RegionID": 10715
+        },
+        {
+            "ParentID": 98597,
+            "RegionID": 10741,
+            "RegionName": "Naro-Fominsk"
+        },
+        {
+            "ParentID": 98598,
+            "RegionID": 10742,
+            "RegionName": "Noginsk"
+        },
+        {
+            "RegionID": 21642,
+            "RegionName": "Elektrougli",
+            "ParentID": 98598
+        },
+        {
+            "ParentID": 98598,
+            "RegionID": 21656,
+            "RegionName": "Staraja Kupavna"
+        },
+        {
+            "ParentID": 98599,
+            "RegionName": "Odincovo",
+            "RegionID": 10743
+        },
+        {
+            "ParentID": 98599,
+            "RegionName": "Kubinka",
+            "RegionID": 21625
+        },
+        {
+            "RegionName": "Golicyno",
+            "RegionID": 21646,
+            "ParentID": 98599
+        },
+        {
+            "RegionName": "Pavlovskiy Posad",
+            "RegionID": 10746,
+            "ParentID": 98602
+        },
+        {
+            "ParentID": 98604,
+            "RegionName": "Pushkino",
+            "RegionID": 10748
+        },
+        {
+            "RegionName": "Ramenskoe",
+            "RegionID": 10750,
+            "ParentID": 98605
+        },
+        {
+            "ParentID": 98606,
+            "RegionID": 10751,
+            "RegionName": "Ruza"
+        },
+        {
+            "ParentID": 98607,
+            "RegionID": 10756,
+            "RegionName": "Stupino"
+        },
+        {
+            "RegionID": 10752,
+            "RegionName": "Sergiev Posad",
+            "ParentID": 98608
+        },
+        {
+            "RegionID": 21645,
+            "RegionName": "Hot'kovo",
+            "ParentID": 98608
+        },
+        {
+            "RegionName": "Solnechnogorsk",
+            "RegionID": 10755,
+            "ParentID": 98611
+        },
+        {
+            "RegionID": 10761,
+            "RegionName": "Chehov",
+            "ParentID": 98614
+        },
+        {
+            "RegionID": 10762,
+            "RegionName": "Shatura",
+            "ParentID": 98615
+        },
+        {
+            "RegionName": "Shelkovo",
+            "RegionID": 10765,
+            "ParentID": 98617
+        },
+        {
+            "RegionName": "Volhov",
+            "RegionID": 10864,
+            "ParentID": 98620
+        },
+        {
+            "ParentID": 98621,
+            "RegionName": "Vsevolgsk",
+            "RegionID": 10865
+        },
+        {
+            "RegionID": 969,
+            "RegionName": "Vyborg",
+            "ParentID": 98622
+        },
+        {
+            "RegionID": 10867,
+            "RegionName": "Gatchina",
+            "ParentID": 98623
+        },
+        {
+            "RegionID": 10870,
+            "RegionName": "Kingisepp",
+            "ParentID": 98624
+        },
+        {
+            "ParentID": 98625,
+            "RegionID": 10871,
+            "RegionName": "Kirishi"
+        },
+        {
+            "RegionName": "Kirovsk",
+            "RegionID": 10872,
+            "ParentID": 98626
+        },
+        {
+            "RegionID": 10876,
+            "RegionName": "Luga",
+            "ParentID": 98629
+        },
+        {
+            "ParentID": 98630,
+            "RegionName": "Podorogie",
+            "RegionID": 10881
+        },
+        {
+            "RegionName": "Voznyesyenje",
+            "RegionID": 22829,
+            "ParentID": 98630
+        },
+        {
+            "ParentID": 98631,
+            "RegionName": "Priozersk",
+            "RegionID": 10883
+        },
+        {
+            "ParentID": 98632,
+            "RegionID": 10888,
+            "RegionName": "Slantsy"
+        },
+        {
+            "RegionName": "Tikhvin",
+            "RegionID": 10892,
+            "ParentID": 98633
+        },
+        {
+            "RegionID": 10893,
+            "RegionName": "Tosno",
+            "ParentID": 98634
+        },
+        {
+            "ParentID": 98697,
+            "RegionName": "Alekseevka",
+            "RegionID": 20192
+        },
+        {
+            "ParentID": 98716,
+            "RegionName": "Shebekino",
+            "RegionID": 20196
+        },
+        {
+            "ParentID": 98717,
+            "RegionName": "Stroitel",
+            "RegionID": 20587
+        },
+        {
+            "RegionName": "Aleksandrov",
+            "RegionID": 10656,
+            "ParentID": 98745
+        },
+        {
+            "RegionID": 10663,
+            "RegionName": "Kirzach",
+            "ParentID": 98750
+        },
+        {
+            "ParentID": 98755,
+            "RegionID": 37129,
+            "RegionName": "Pokrov"
+        },
+        {
+            "ParentID": 98787,
+            "RegionID": 10681,
+            "RegionName": "Rossosh"
+        },
+        {
+            "RegionID": 10697,
+            "RegionName": "Maloyaroslavets",
+            "ParentID": 98826
+        },
+        {
+            "RegionName": "Vyazma",
+            "RegionID": 10782,
+            "ParentID": 98958
+        },
+        {
+            "RegionName": "Gagarin",
+            "RegionID": 10783,
+            "ParentID": 98959
+        },
+        {
+            "ParentID": 98981,
+            "RegionID": 10801,
+            "RegionName": "Yartsevo"
+        },
+        {
+            "RegionID": 10805,
+            "RegionName": "Bologoe",
+            "ParentID": 99008
+        },
+        {
+            "RegionID": 10812,
+            "RegionName": "Konakovo",
+            "ParentID": 99019
+        },
+        {
+            "ParentID": 99028,
+            "RegionName": "Ostashkov",
+            "RegionID": 10818
+        },
+        {
+            "RegionName": "Udomlya",
+            "RegionID": 10824,
+            "ParentID": 99039
+        },
+        {
+            "RegionID": 20667,
+            "RegionName": "Bogoroditsk",
+            "ParentID": 99044
+        },
+        {
+            "ParentID": 99070,
+            "RegionName": "Myshkin",
+            "RegionID": 10836
+        },
+        {
+            "RegionID": 21154,
+            "RegionName": "Tutaev",
+            "ParentID": 99078
+        },
+        {
+            "ParentID": 99079,
+            "RegionID": 10840,
+            "RegionName": "Uglich"
+        },
+        {
+            "ParentID": 99105,
+            "RegionID": 10854,
+            "RegionName": "Velikiy Ustug"
+        },
+        {
+            "RegionID": 10906,
+            "RegionName": "Borovichy",
+            "ParentID": 99146
+        },
+        {
+            "ParentID": 99147,
+            "RegionID": 10907,
+            "RegionName": "Valday"
+        },
+        {
+            "ParentID": 99161,
+            "RegionID": 10923,
+            "RegionName": "Staraya Russa"
+        },
+        {
+            "ParentID": 99193,
+            "RegionName": "Kondopoga",
+            "RegionID": 10934
+        },
+        {
+            "ParentID": 99203,
+            "RegionName": "Segezha",
+            "RegionID": 10936
+        },
+        {
+            "ParentID": 99210,
+            "RegionName": "Pechora",
+            "RegionID": 10942
+        },
+        {
+            "RegionName": "Ahtubinsk",
+            "RegionID": 20167,
+            "ParentID": 99221
+        },
+        {
+            "RegionName": "Belorechensk",
+            "RegionID": 10988,
+            "ParentID": 99269
+        },
+        {
+            "RegionName": "Yesk",
+            "RegionID": 10993,
+            "ParentID": 99274
+        },
+        {
+            "ParentID": 99275,
+            "RegionName": "Kropotkin",
+            "RegionID": 10996
+        },
+        {
+            "RegionID": 10997,
+            "RegionName": "Krymsk",
+            "ParentID": 99281
+        },
+        {
+            "ParentID": 99293,
+            "RegionName": "Slavyansk-na-Kubani",
+            "RegionID": 20704
+        },
+        {
+            "ParentID": 99297,
+            "RegionID": 21141,
+            "RegionName": "Timashovsk"
+        },
+        {
+            "RegionName": "Tikhoretsk",
+            "RegionID": 11002,
+            "ParentID": 99298
+        },
+        {
+            "RegionID": 1058,
+            "RegionName": "Tuapse",
+            "ParentID": 99299
+        },
+        {
+            "RegionName": "Belaya Kalitva",
+            "RegionID": 11034,
+            "ParentID": 99411
+        },
+        {
+            "ParentID": 99456,
+            "RegionID": 11055,
+            "RegionName": "Budennovsk"
+        },
+        {
+            "ParentID": 99555,
+            "RegionName": "Kstovo",
+            "RegionID": 20044
+        },
+        {
+            "RegionName": "Pavlovo",
+            "RegionID": 11082,
+            "ParentID": 99560
+        },
+        {
+            "ParentID": 99675,
+            "RegionName": "Belebey",
+            "RegionID": 20714
+        },
+        {
+            "ParentID": 99677,
+            "RegionName": "Beloretsk",
+            "RegionID": 20259
+        },
+        {
+            "RegionName": "Ishimbay",
+            "RegionID": 20718,
+            "ParentID": 99694
+        },
+        {
+            "ParentID": 99703,
+            "RegionName": "Meleuz",
+            "RegionID": 20715
+        },
+        {
+            "ParentID": 99712,
+            "RegionName": "Tuymazy",
+            "RegionID": 20717
+        },
+        {
+            "ParentID": 99714,
+            "RegionID": 20680,
+            "RegionName": "Uchaly"
+        },
+        {
+            "ParentID": 99737,
+            "RegionName": "Ruzaevka",
+            "RegionID": 20010
+        },
+        {
+            "RegionID": 11143,
+            "RegionName": "Balakovo",
+            "ParentID": 99817
+        },
+        {
+            "RegionID": 11144,
+            "RegionName": "Balashev",
+            "ParentID": 99818
+        },
+        {
+            "ParentID": 99832,
+            "RegionName": "Marks",
+            "RegionID": 20063
+        },
+        {
+            "RegionID": 11147,
+            "RegionName": "Engels",
+            "ParentID": 99850
+        },
+        {
+            "RegionName": "Asha",
+            "RegionID": 11196,
+            "ParentID": 100005
+        },
+        {
+            "RegionID": 11217,
+            "RegionName": "Satka",
+            "ParentID": 100020
+        },
+        {
+            "ParentID": 100028,
+            "RegionName": "Nadym",
+            "RegionID": 11229
+        },
+        {
+            "RegionID": 11268,
+            "RegionName": "Nizhneudinsk",
+            "ParentID": 100109
+        },
+        {
+            "RegionID": 11270,
+            "RegionName": "Tayshet",
+            "ParentID": 100112
+        },
+        {
+            "ParentID": 100116,
+            "RegionID": 20097,
+            "RegionName": "Ust-Kut"
+        },
+        {
+            "ParentID": 100183,
+            "RegionName": "Barabinsk",
+            "RegionID": 20098
+        },
+        {
+            "ParentID": 100189,
+            "RegionID": 20101,
+            "RegionName": "Karasuk"
+        },
+        {
+            "RegionName": "Ust'-Barguzin",
+            "RegionID": 21161,
+            "ParentID": 100244
+        },
+        {
+            "ParentID": 100278,
+            "RegionID": 21675,
+            "RegionName": "Kargasok"
+        },
+        {
+            "RegionID": 11349,
+            "RegionName": "Kolpashevo",
+            "ParentID": 100280
+        },
+        {
+            "ParentID": 100398,
+            "RegionID": 11451,
+            "RegionName": "Amursk"
+        },
+        {
+            "ParentID": 101749,
+            "RegionName": "Kandalaksha",
+            "RegionID": 10895
+        },
+        {
+            "ParentID": 101987,
+            "RegionName": "Nerungri",
+            "RegionID": 11437
+        },
+        {
+            "ParentID": 102089,
+            "RegionName": "Kobrin",
+            "RegionID": 26010
+        },
+        {
+            "ParentID": 102103,
+            "RegionName": "Zhlobin",
+            "RegionID": 26966
+        },
+        {
+            "ParentID": 102104,
+            "RegionName": "Kalinovichi",
+            "RegionID": 102235
+        },
+        {
+            "RegionID": 21274,
+            "RegionName": "Mozyr",
+            "ParentID": 102108
+        },
+        {
+            "ParentID": 102112,
+            "RegionID": 26008,
+            "RegionName": "Rechitsa"
+        },
+        {
+            "ParentID": 102113,
+            "RegionName": "Rogachev",
+            "RegionID": 26027
+        },
+        {
+            "ParentID": 102114,
+            "RegionName": "Svetlogorsk",
+            "RegionID": 26004
+        },
+        {
+            "RegionID": 26923,
+            "RegionName": "Vawkavysk",
+            "ParentID": 102118
+        },
+        {
+            "ParentID": 102125,
+            "RegionName": "Lida",
+            "RegionID": 21144
+        },
+        {
+            "RegionName": "Mosti",
+            "RegionID": 26007,
+            "ParentID": 102126
+        },
+        {
+            "ParentID": 102127,
+            "RegionID": 26836,
+            "RegionName": "Novogrudok"
+        },
+        {
+            "ParentID": 102131,
+            "RegionID": 26005,
+            "RegionName": "Slonim"
+        },
+        {
+            "RegionID": 26017,
+            "RegionName": "Smarhon",
+            "ParentID": 102132
+        },
+        {
+            "ParentID": 102136,
+            "RegionName": "Bikhov",
+            "RegionID": 26021
+        },
+        {
+            "RegionName": "Gorki",
+            "RegionID": 26774,
+            "ParentID": 102138
+        },
+        {
+            "RegionName": "Klimavichy",
+            "RegionID": 26006,
+            "ParentID": 102141
+        },
+        {
+            "ParentID": 102144,
+            "RegionName": "Krichev",
+            "RegionID": 26015
+        },
+        {
+            "ParentID": 102149,
+            "RegionName": "Asipovichy",
+            "RegionID": 26012
+        },
+        {
+            "RegionID": 26016,
+            "RegionName": "Shklov",
+            "ParentID": 102154
+        },
+        {
+            "RegionName": "Borisov",
+            "RegionID": 21193,
+            "ParentID": 102156
+        },
+        {
+            "RegionID": 26745,
+            "RegionName": "Vileyka",
+            "ParentID": 102157
+        },
+        {
+            "RegionID": 26018,
+            "RegionName": "Dzerzhinsk (Minsk District)",
+            "ParentID": 102159
+        },
+        {
+            "ParentID": 102162,
+            "RegionName": "Krupki",
+            "RegionID": 26022
+        },
+        {
+            "ParentID": 102165,
+            "RegionID": 26001,
+            "RegionName": "Molodcheno"
+        },
+        {
+            "RegionName": "Slutsk",
+            "RegionID": 26951,
+            "ParentID": 102169
+        },
+        {
+            "ParentID": 102170,
+            "RegionName": "Salihorsk",
+            "RegionID": 26003
+        },
+        {
+            "RegionName": "Verkhnedvinsk",
+            "RegionID": 26554,
+            "ParentID": 102178
+        },
+        {
+            "ParentID": 102180,
+            "RegionName": "Glubokoye",
+            "RegionID": 26025
+        },
+        {
+            "RegionID": 21271,
+            "RegionName": "Miory",
+            "ParentID": 102186
+        },
+        {
+            "ParentID": 102187,
+            "RegionID": 10276,
+            "RegionName": "Orsha"
+        },
+        {
+            "ParentID": 102188,
+            "RegionName": "Polotsk",
+            "RegionID": 10275
+        },
+        {
+            "ParentID": 102189,
+            "RegionID": 26026,
+            "RegionName": "Pastavy"
+        },
+        {
+            "ParentID": 102444,
+            "RegionID": 11010,
+            "RegionName": "Republic of Dagestan"
+        },
+        {
+            "ParentID": 102444,
+            "RegionName": "Republic of Ingushetia",
+            "RegionID": 11012
+        },
+        {
+            "ParentID": 102444,
+            "RegionID": 11013,
+            "RegionName": "The Kabardino-Balkar Republic"
+        },
+        {
+            "RegionName": "Karachay-Cherkess Republic",
+            "RegionID": 11020,
+            "ParentID": 102444
+        },
+        {
+            "RegionName": "Republic of North Ossetia — Alania",
+            "RegionID": 11021,
+            "ParentID": 102444
+        },
+        {
+            "RegionID": 11024,
+            "RegionName": "Chechen Republic",
+            "ParentID": 102444
+        },
+        {
+            "RegionName": "Stavropol Krai",
+            "RegionID": 11069,
+            "ParentID": 102444
+        },
+        {
+            "RegionName": "Ingolstadt",
+            "RegionID": 101738,
+            "ParentID": 103750
+        },
+        {
+            "ParentID": 103900,
+            "RegionName": "Rishon LeZion",
+            "RegionID": 116114
+        },
+        {
+            "RegionID": 132,
+            "RegionName": "Haifa",
+            "ParentID": 103901
+        },
+        {
+            "RegionName": "Ashkelon",
+            "RegionID": 100944,
+            "ParentID": 103904
+        },
+        {
+            "ParentID": 103905,
+            "RegionName": "Tel Aviv",
+            "RegionID": 131
+        },
+        {
+            "RegionID": 11475,
+            "RegionName": "Vilnius",
+            "ParentID": 104260
+        },
+        {
+            "ParentID": 104357,
+            "RegionName": "Helsinki",
+            "RegionID": 10493
+        },
+        {
+            "RegionID": 11482,
+            "RegionName": "Tartu",
+            "ParentID": 104430
+        },
+        {
+            "RegionName": "Tallinn",
+            "RegionID": 11481,
+            "ParentID": 104431
+        },
+        {
+            "RegionName": "Belgrade",
+            "RegionID": 10522,
+            "ParentID": 104492
+        },
+        {
+            "RegionName": "East of England",
+            "RegionID": 104584,
+            "ParentID": 104520
+        },
+        {
+            "RegionID": 104612,
+            "RegionName": "Cambridgeshire County",
+            "ParentID": 104584
+        },
+        {
+            "RegionID": 10391,
+            "RegionName": "Cambridge",
+            "ParentID": 104612
+        },
+        {
+            "RegionName": "Vanadzor",
+            "RegionID": 10258,
+            "ParentID": 105794
+        },
+        {
+            "RegionID": 10259,
+            "RegionName": "Gyumri",
+            "ParentID": 105795
+        },
+        {
+            "RegionID": 10329,
+            "RegionName": "Andijan",
+            "ParentID": 105804
+        },
+        {
+            "RegionName": "Bukhara",
+            "RegionID": 10330,
+            "ParentID": 105805
+        },
+        {
+            "ParentID": 105806,
+            "RegionID": 21606,
+            "RegionName": "Dzhizak"
+        },
+        {
+            "RegionID": 10331,
+            "RegionName": "Karshi",
+            "ParentID": 105807
+        },
+        {
+            "ParentID": 105807,
+            "RegionID": 101761,
+            "RegionName": "Shahrisabz"
+        },
+        {
+            "RegionName": "Navoi",
+            "RegionID": 21947,
+            "ParentID": 105808
+        },
+        {
+            "ParentID": 105809,
+            "RegionName": "Namangan",
+            "RegionID": 21314
+        },
+        {
+            "ParentID": 105810,
+            "RegionID": 10334,
+            "RegionName": "Samarkand"
+        },
+        {
+            "ParentID": 105811,
+            "RegionName": "Termez",
+            "RegionID": 10338
+        },
+        {
+            "ParentID": 105813,
+            "RegionName": "Almalik",
+            "RegionID": 10328
+        },
+        {
+            "ParentID": 105813,
+            "RegionID": 101524,
+            "RegionName": "Bekabad"
+        },
+        {
+            "RegionName": "Chirchiq",
+            "RegionID": 114900,
+            "ParentID": 105813
+        },
+        {
+            "RegionID": 189657,
+            "RegionName": "Okhangaron District",
+            "ParentID": 105813
+        },
+        {
+            "ParentID": 105814,
+            "RegionID": 10332,
+            "RegionName": "Kokand"
+        },
+        {
+            "RegionID": 10336,
+            "RegionName": "Phergana",
+            "ParentID": 105814
+        },
+        {
+            "RegionID": 101425,
+            "RegionName": "Margilan",
+            "ParentID": 105814
+        },
+        {
+            "RegionName": "Urgench",
+            "RegionID": 21105,
+            "ParentID": 105815
+        },
+        {
+            "ParentID": 105816,
+            "RegionName": "Nukus",
+            "RegionID": 10337
+        },
+        {
+            "RegionID": 193330,
+            "RegionName": "Xojayli District",
+            "ParentID": 105816
+        },
+        {
+            "ParentID": 110916,
+            "RegionID": 20243,
+            "RegionName": "Chaikovsky"
+        },
+        {
+            "ParentID": 110934,
+            "RegionName": "Sortavala",
+            "RegionID": 10937
+        },
+        {
+            "RegionID": 10278,
+            "RegionName": "Batumi",
+            "ParentID": 122054
+        },
+        {
+            "RegionID": 10285,
+            "RegionName": "Rustavi",
+            "ParentID": 122062
+        },
+        {
+            "ParentID": 189657,
+            "RegionName": "Angren",
+            "RegionID": 101550
+        }
+    ]
+}
